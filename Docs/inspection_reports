@@ -1,0 +1,31 @@
+U.S. Nuclear Power Plant Inspection Reports Dataset (NRC)
+
+Format:
+doc_title
+    Document Title
+
+doc_dt
+    Date of Doc
+
+site_name
+    name of site
+
+rpt_url
+    hyperlink of site
+
+accession_no
+    Docket Number
+
+Source: https://catalog.data.gov/dataset/u-s-nuclear-power-plant-inspection-reports
+License: CC0 (Public Domain)
+Publisher: Nuclear Regulatory Commission (NRC)
+Metadata Updated: November 18, 2024
+
+Key Dataset Info
+Title: U.S. Nuclear Power Plant Inspection Reports
+Description: Commercial NRC Inspection Reports for Nuclear Power Reactors (US)
+Download: https://www.nrc.gov/reactors/operating/oversight/list-of-insp-rpts-dataset.xlsx
+Data Dictionary: https://www.nrc.gov/reactors/operating/oversight/list-of-insp-rpts-datadictionary.xls
+
+Notes
+Covers commercial power reactors.

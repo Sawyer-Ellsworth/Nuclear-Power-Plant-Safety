@@ -1,0 +1,32 @@
+Waste Incidental to Reprocessing Key Documents
+
+Format:
+id_number
+    id number
+
+category
+    category of document
+
+Site
+    site of nuclear plan
+
+date
+    date of document
+
+adams_accession_number
+    Reference number used to locate documents in NRC's Agencywide Documents Access and Management System (ADAMS)
+
+title_and_hyperlink_to_document_in_adams
+    title of document -- no hyperlink rn just title -- need to change name
+
+
+Source: https://catalog.data.gov/dataset/waste-incidental-to-reprocessing-key-documents
+License: CC0 (Public Domain)
+Publisher: Nuclear Regulatory Commission (NRC)
+Metadata Updated: November 18, 2024
+
+Key Dataset Info
+Title: Waste Incidental to Reprocessing Key Documents
+Description: This dataset presents information regarding the documents regarding Waste Incidental to Reprocessing.
+Download: https://www.nrc.gov/waste/incidental-waste/wir-documents.xls
+Data Dictionary: https://www.nrc.gov/waste/incidental-waste/wir-documents-datadictionary.xls

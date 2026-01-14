@@ -1,0 +1,35 @@
+List of Nuclear Materials Licensing Actions Received
+
+Format:
+state
+    state
+
+city
+    city
+
+applicant_licensee_name
+    the name of the company, or other entity sumbitting the licensing action
+
+license_no
+    licency number of the case
+
+region
+    Field which designates the NRC Region that conducted the review of the licensing activity where    0= Headquarters (Washington, DC),  1= Region I (King of Prussia, PA), 2 = Region II (Atlanta, GA), 3 = Region III (Lisle, IL), and 4= Region IV (Arlington, TX)
+
+received
+    date recived
+
+type_action
+    Field designating the type of license review that was conducted where:  (1) = An entity that is applying for a new license and currently has an existing NRC license; (2)=An entity that is applying for a new license and does not currently have an active NRC license; (3)=License Renewal; (4)=License Amendment; (5)=License Termination; (6)=Decommissioning; (7)=Finance Assurance Review; (8)=Notifications; (9)=Environmental Assessment; (10)=Order
+
+
+Source: https://catalog.data.gov/dataset/list-of-nuclear-materials-licensing-actions-received
+License: CC0 (Public Domain)
+Publisher: Nuclear Regulatory Commission (NRC)
+Metadata Updated: November 18, 2024
+
+Key Dataset Info
+Title: List of Nuclear Materials Licensing Actions Received
+Description: A catalog of all Materials Licensing Actions received for review. The catalog lists the name of the entity submitting the license application, their city and state, the license number, the docket number, the NRC Region that handled the review, and the typregarding the documents regarding Waste Incidental to Reprocessing.
+Download: https://www.nrc.gov/materials/miau/materials-licensing-apps.xls
+Data Dictionary: https://www.nrc.gov/materials/miau/materials-licensing-apps-datadictionary.xls
