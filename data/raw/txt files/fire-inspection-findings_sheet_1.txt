@@ -1,0 +1,574 @@
+Findings from Fire Inspections 							
+Site	Region	Event Date	Item Type	Title	Report Number and/or Comments	Year First Observed 	Report Type
+ANO	4	10/19/2007	NCV (Green )	(PIM) FAILURE TO MAINTAIN ADEQUATE FIRE BRIGADE STAFFING DURING ALTERNATE SHUTDOWN 	2007006	2007	Triennial
+ANO	4	8/3/2001	Violation (White )	(PIM) The Acceptability of the Use of Manual Actions in Lieu of Providing Protection for Cables Associated with Equipment Necessary for Achieving and Maintaining Hot Shutdown.	Open in TR 2001006 and discussed in IR 2003012 and closed in Supplemental Inspection Report 200511.	2001	Triennial
+ANO 	4	9/30/2000	NCV (Green )	(PIM) INOPERABILITY OF UNIT 2 FIRE DOOR 269 	2000016	2000	Annual/Quarterly
+ANO 	4	3/31/2001	NCV (Green )	(PIM) INDIVIDUAL WITHOUT REQUIRED TRAINING PERFORMED FIRE WATCH PATROLS 	2000013	2001	Annual/Quarterly
+ANO 	4	10/22/2001	NCV (Green )	(PIM) FAILURE TO ENSURE THAT ONE TRAIN OF BWST OUTLET VALVES WAS FREE OF FIRE DAMAGE. 	2001007	2001	Annual/Quarterly
+ANO 	4	12/21/2001	Finding (Green )	(PIM) FIRE BRIGADE DRILL HOSE SELECTION ISSUE AND PREFIRE PLAN ISSUE. 	2001008	2001	Annual/Quarterly
+ANO 	4	9/21/2002	NCV (Green )	(PIM) FAILURE TO HAVE ADEQUATE PROCEDURAL CONTROLS FOR THE USE OF FIRE RETARDANT TREATED WOOD 	2002004	2002	Annual/Quarterly
+ANO 	4	6/23/2004	NCV (Green )	(PIM) FAILURE TO PROVIDE ADEQUATE COMPENSATORY MEASURES FOR A LOSS OF FIRE WATER TO THE INTAKE STRUCTURE 	2004003	2004	Annual/Quarterly
+ANO 	4	9/23/2004	NCV (Green )	(PIM) FAILURE TO PERFORM REQUIRED HYDROSTATIC TESTING OF PRESSURIZED FIRE EXTINGUISHERS 	2004004	2004	Annual/Quarterly
+ANO 	4	3/24/2006	NCV (Green )	(PIM) FAILURE TO ENSURE FIRE DOORS WERE LATCHED 	2006002	2006	Annual/Quarterly
+ANO 	4	12/31/2006	NCV (Green )	(PIM) FIRE DURING HOT WORK ACTIVITIES ON THE CONTAINMENT SUMP STRAINER 	2006005	2006	Annual/Quarterly
+ANO 	4	12/31/2007	NCV (Green )	(PIM) Failure to Maintain Fire Barrier for Emergency Feedwater Pump A 	2007005	2007	Annual/Quarterly
+BF	2	9/22/2001	NCV (Green )	"(PIM) Error in Analysis of RHR System Results in Failure to Meet Appendix R, Criterion III.L.2.B "	Open in TR 2000008 as URI and closed in IR 2001003 as NCV.  This finding corresponds to the year 2000. This finding appeared in the quarterly/annual findings.	2000	Triennial
+BF	2	10/3/2003	NCV (Green )	(PIM) Changes Made to the Fire Protection Program Regarding Compensatory Fire Watch Implementation Without NRC Approval 	2003007	2003	Triennial
+BF	2	9/15/2006	NCV (Green )	"(PIM) Safe Shutdown Instruction Directs Operators to Connect 4 KV SD BD ""A"" to a Potentially Fire-Induced Fault in FA 8 "	2006014	2006	Triennial
+BF	2	9/15/2006	NCV (Green )	(PIM) Cellular Phone Communications Unreliable for Alternate Shutdown in FA16 	2006014	2006	Triennial
+BF	2	1/20/2010	NCV (Green )	Deficiencies with Emergency Lighting Units	2009007	2009	Triennial
+BF	2	1/21/2010	NCV (Green )	Failure to Establish Adequate Compensatory Measures for an Out-of-Service Hose Station	2009007	2009	Triennial
+BF	2	6/5/2009	Violation (Yellow )	"Violation of 10 CFR Part 50, Appendix R, Section III.G"	"Open in TR 2006014 as URI, apparent violation in 2009009 and Yellow Violation in the final determination report 2010007"	2006	Triennial
+BF	2	6/6/2009	Violation (White )	"The licensee failed to establish, implement, and maintain an adequate procedure for combating a plant fire event."	"Open in TR 2006014 as URI, apparent violation in 2009009 and Yellow Violation in the final determination report 2010008"	2006	Triennial
+BF	2	9/22/2001	NCV (Green )	(PIM) Inadequate Fire Damper Maintenance Procedure Results in Inoperable Emergency Diesel Generators 	2001003. This finding appeared in the triennial search but it was a licensee identified violation during a quarterly inspection report.	2001	Annual/Quarterly
+BF 	2	9/22/2001	NCV (Green )	"(PIM) ERROR IN ANALYSIS OF RHR SYSTEM RESULTS IN FAILURE TO MEET APPENDIX R, CRITERION III.L.2.B "	2001003	2001	Annual/Quarterly
+BF 	2	6/30/2006	NCV (Green )	(PIM) Failure to Implement Required Fire Watches 	2006003	2006	Annual/Quarterly
+BRAI	3	11/30/2000	NCV (N/A )	(PIM) Molded Case Circuit Breakers Not Periodically Inspected and Tested 	2000006	2000	Triennial
+BRAI	3	11/30/2000	NCV (N/A )	(PIM) Instrumentation Not Available for Determining RCP Seal Temperature 	2000006	2000	Triennial
+BRAI	3	11/30/2000	NCV (N/A )	(PIM) ESW Suction Valves Not Protected from Fire Induced Spurious Actuations 	2000006	2000	Triennial
+BRAI	3	7/11/2003	NCV (Green )	(PIM) Failure to assess and address Coordination Calculation Conclusions/Recommendations	2003005	2003	Triennial
+BRAI	3	7/11/2003	NCV (Green )	(PIM) MOLDED CASE CIRCUIT BREAKERS NOT PERIODICALLY CYCLED/EXERCISED 	2003005	2003	Triennial
+BRAI	3	6/30/2006	NCV (Green )	(PIM) Failure to Adequately Control Transient Combustibles 	2006009	2006	Triennial
+BRAI	3	6/30/2006	NCV (Green )	(PIM) Inadequate Pre-Fire Plan 	2006009	2006	Triennial
+BRAI	3	6/30/2006	NCV (Green )	(PIM) Failure to Take Effective Corrective Action 	2006009	2006	Triennial
+BRAI	3	3/6/2009	Finding (Green )	(PIM) Failure to Perform Validation for Safe Shutdown Manual Actions 	2009003	2009	Triennial
+BRAI	3	3/6/2009	NCV (Green )	(PIM) Failure to Take Effective Corrective actions to Maintain Capability of foam Suppression Systems 	2009003	2009	Triennial
+BRAI	3	2/18/2002	NCV (Green )	(PIM) FAILURE TO FOLLOW EQUIPMENT CONTROL PROCEDURE 	2002002	2002	Annual/Quarterly
+BRAI	3	9/30/2002	NCV (Green )	(PIM) FAILURE TO ESTABLISH COMPENSATORY FIREWATCHES FOR TWO REMOVED FIRE RATED BARRIERS 	2002007	2002	Annual/Quarterly
+BRAI	3	3/31/2005	Finding (Green )	(PIM) POOR CONTROL OF COMBUSTIBLE MATERIAL AND TEMPORARY POWER SOURCES 	2005002	2005	Annual/Quarterly
+BRAI	3	6/30/2006	NCV (Green )	(PIM) FAILURE TO MAINTAIN FIRE BARRIER IN ACCORDANCE WITH FIRE PROTECTION PROGRAM 	2006003	2006	Annual/Quarterly
+BRAI	3	9/30/2006	NCV (Green )	(PIM) FAILURE TO MAINTAIN ELECTRICALLY SUPERVISED FIRE DOORS IN ACCORDANCE WITH THE FIRE PROTECTION PROGRAM 	2006004	2006	Annual/Quarterly
+BRAI	3	12/31/2006	NCV (Green )	(PIM) TRANSIENT COMBUSTIBLES STAGED DIRECTLY BENEATH SAFETY RELATED HORIZONTAL CABLE TRAYS 	2006005	2006	Annual/Quarterly
+BRAI	3	9/30/2008	NCV (Green )	(PIM) FAILURE TO COMPLY WITH THE SPACING STANDARD FOR SPRINKLER SYSTEMS IN ACCORDANCE WITH THE LICENSEE FIRE PROTECTION PROGRAM REQUIREMENTS 	2008004	2008	Annual/Quarterly
+BRAI	3	9/30/2008	NCV (SL-IV )	(PIM) FAILURE TO PROPERLY EVALUATE REMOVAL OF CARBON DIOXIDE FIRE SUPPRESSION FOR THE UPPER CABLE SPREADING ROOM CARBON DIOXIDE FIRE SUPPRESSION 	2008004	2008	Annual/Quarterly
+BRAI	3	6/30/2009	NCV (Green )	(PIM) ISOLATION OF LOWER CABLE SPREADING ROOM CARBON DIOXIDE FIRE SUPPRESSION 	First discussed in 2008004  and closed in 2009004	2008	Annual/Quarterly
+BRAI	3	9/30/2009	NCV (Green )	(PIM) FAILURE TO PROVIDE CONTINUOUS MONITORING OF A FIRE DOOR 	2009004	2009	Annual/Quarterly
+BRAI	3	9/30/2009	NCV (Green )	(PIM) FAILURE OF FIRE PROTECTION VALVE STROKE PROCEDURE RESULTS IN TRIP OF B TRAIN OF MAIN CONTROL ROOM VENTILATION 	2009004	2009	Annual/Quarterly
+BRU	2	11/19/2004	NCV (Green )	(PIM) Inadequate Implementation of the Fire Protection Program For ERFBS Fire Barrier Protection of Circuits In Fire Area DG-8 	2004010	2004	Triennial
+BRU 	2	9/28/2002	NCV (Green )	(PIM) FAILURE TO HAVE INSTALLLED FIXED FIRE SUPPRESSION SYSTEMS THAT ARE CAPABLE OF MINIMIZING FIRE DAMAGE TO SAFE SHUTDOWN CABLING DURING FLOOR LEVEL TRANSIENT COMBUSTIBLE FIRES IN THE UNIT 1 AND 2 CSRs 	2002003	2002	Annual/Quarterly
+BRU 	2	12/31/2009	NCV (Green )	(PIM) Failure To Identify and Correct Degraded Fire Protection Sprinklers 	2009005	2009	Annual/Quarterly
+BRU 	2	12/31/2009	NCV (Green )	(PIM) Failure To Adequately Implement Design Control Measures For The Fire Protection Program 	2009005	2009	Annual/Quarterly
+BV	1	6/8/2001	NCV (Green )	(PIM) INADEQUATE PROCEDURE FOR SAFE SHUTDOWN FROM OUTSIDE OF THE CONTROL ROOM COULD RESULT IN DAMAGE TO EMERGENCY DIESEL GENERATOR 	2001005	2001	Triennial
+BV 	1	3/31/2001	NCV (Green )	(PIM) FAILURE TO PROPERLY CONTROL COMBUSTIBLE MATERIALS IN ACCORDANCE WITH THE FIRE PROTECTION PROGRAM 	2001002	2001	Annual/Quarterly
+BV 	1	3/31/2001	NCV (Green )	(PIM) FAILURE TO ESTABLISH THE COMPENSATORY MEASURES FOR AN INOPERABLE FIRE DOOR IN THE UNIT 2 EMERGENCY SWITCH GEAR 	2001002	2001	Annual/Quarterly
+BV 	1	8/7/2007	NCV (Green )	(PIM) POST-FIRE SAFE SHUTDOWN CAPABILITY DEGRADED DUE TO AMMONIA GAS HAZARD 	2007004	2007	Annual/Quarterly
+BYRO	3	6/30/2007	NCV (Green )	(PIM) ALTERNATIVE SHUTDOWN USING THE REMOTE SHUTDOWN PANEL. 	Open in TR 2004005 as URI and was closed in IR 2007003 as NCV. This finding corresponds to the year 2004.	2004	Triennial
+BYRO	3	3/31/2007	NCV (Green )	(PIM) ADEQUACY OF SAFE SHUTDOWN PROCEDURES TO ADDRESS DRAINING OF THE RWST. 	It was an URI from TR 2004005 and was closed in IR 2007002. This finding corresponds to the year 2004.	2004	Triennial
+BYRO	3	7/9/2004	NCV (Green )	(PIM) Failure to Install Fire Detector in Accordance With NFPA 72E 	2004005	2004	Triennial
+BYRO	3	7/9/2004	NCV (Green )	(PIM) Faulted Pressurizer PORV Power Source Restoration Directions Inadequate 	2004005	2004	Triennial
+BYRO	3	7/9/2004	NCV (Green )	(PIM) Design Control of Fire Loading Calculations 	2004005	2004	Triennial
+BYRO	3	6/30/2005	NCV (Green )	(PIM) Insufficient Fire Seal Material in Penetration Between Emergency Diesel Generator Rooms and Associated Switchgear Rooms 	2005004	2005	Annual/Quarterly
+BYRO	3	9/30/2006	NCV (Green )	(PIM) FAILURE TO MAINTAIN FIRE BARRIERS IN ACCORDANCE WITH FIRE PROTECTION PROGRAM. 	2006004	2006	Annual/Quarterly
+BYRO	3	6/30/2007	NCV (Green )	(PIM) FAILURE TO FIRE PROOF STRUCTURAL STEEL BEAMS TO ACHIEVE A 3-HOUR FIRE RATING. 	2007003	2007	Annual/Quarterly
+BYRO	3	6/30/2008	NCV (Green )	(PIM) FIRE SUPPRESSION SPRINKLER OBSTRUCTION IN THE DIESEL OIL STORAGE TANK ROOM 	2008003	2008	Annual/Quarterly
+BYRO	3	9/30/2008	NCV (Green )	(PIM) ISOLATING CARBON DIOXIDE FIRE SUPPRESSION SYSTEM IN UPPER CABLE SPREADING ROOMS WITHOUT PRIOR NRC APPROVAL 	2008004	2008	Annual/Quarterly
+CALL	4	8/22/2000	NCV (Green )	"(PIM) Three examples of making a change to the fire protection program, without prior Commission approval, that adversely affected the ability to achieve and maintain safe shutdown. "	2000013	2000	Triennial
+CALL	4	8/9/2000	NCV (Green )	(PIM) Failure to maintain in effect a 3-hour rated fire barrier between redundant trains of equipment necessary to achieve and maintain safe shutdown. 	2000013	2000	Triennial
+CALL	4	3/24/2004	NCV (Green )	(PIM) Inadequate smoke alarm response procedure for control room supply. 	Open in TR 2003007 as URI and closed in IR 2004002 as NCV.  	2003	Triennial
+CALL	4	10/21/2003	NCV (Green )	(PIM) Failure to Take Required Compensatory Measures When CREVIS Operation Rendered ESF Switchgear Room Halon System Inoperable 	2003007	2003	Triennial
+CALL	4	2/27/2009	NCV (Green )	(PIM) Failure to Correct Problems with Fire Protection Impairment Permits 	2009006	2009	Triennial
+CALL	4	6/25/2002	NCV (Green )	(PIM) Unsecured fire door. 	2002002	2002	Annual/Quarterly
+CALL	4	12/31/2004	NCV (Green )	(PIM) Failure to Establish Required Fire Watch. 	2004005	2004	Annual/Quarterly
+CALL	4	12/31/2004	NCV (Green )	(PIM) Failure to Maintain the Integrity of an Auxiliary Building Fire Door 	2004005	2004	Annual/Quarterly
+CALL	4	3/24/2005	NCV (Green )	(PIM) Unplanned loss of water fire suppression due to an inadequate testing procedure. 	2005002	2005	Annual/Quarterly
+CALL	4	3/24/2005	NCV (Green )	(PIM) Failure to maintain the minimum number of fire brigade members on site. 	2005002	2005	Annual/Quarterly
+CALL	4	6/23/2005	NCV (Green )	(PIM) Failure to maintain the integrity of a three-hour auxiliary building fire door. 	2005003	2005	Annual/Quarterly
+CALL	4	12/31/2005	NCV (Green )	(PIM) Failure to adequately implement continuous compensatory fire watches. 	2006005	2006	Annual/Quarterly
+CALL	4	12/31/2006	NCV (Green )	(PIM) Failure to Identify a Degraded Fire Barrier 	2006005	2006	Annual/Quarterly
+CALV	1	9/14/2001	NCV (Green )	(PIM) Inadequate abnormal operating procedures for post-fire safe shutdown. (Section 1RO5.07) 	2001007	2001	Triennial
+CALV	1	9/14/2001	NCV (Green )	(PIM) Failure to account for steam generator inventory losses due to blow down flow. (Section 1RO5.07). 	2001007	2001	Triennial
+CALV	1	9/14/2001	NCV (Green )	(PIM) 22 Saltwater air compressor Appendix R hand switch fuses shunted. LER 50-318/2001-001 (Section 4OA3.1) 	2001007	2001	Triennial
+CALV	1	2/28/2004	NCV (Green )	Inadequate Combustible Material Control in Unit 1 69’ West Electrical Room	2004003	2004	Triennial
+CALV	1	2/28/2004	NCV (Green )	"Failure to Provide Protection in Accordance with 10 CFR Part 50, Appendix R, Section III.G.2."	2004003	2004	Triennial
+CALV	1	2/28/2004	Finding (Green)	Inadequate Breaker Coordination	2004003	2004	Triennial
+CALV	1	5/13/2000	Finding (Green )	(PIM) Degraded Protect wire fire detection system 	2000004	2000	Annual/Quarterly
+CALV	1	5/13/2000	Finding (N/A )	"(PIM) Protect wire degradation - cross-cutting issue, PI&R "	2000004	2000	Annual/Quarterly
+CAT	2	3/31/2006	NCV (Green )	(PIM) Derating Selected Emergency Lighting Units Required for Post-Fire Safe Shutdown 	Open in TR 2004007 as Uri and closed in IR 2006002 as NCV. 	2004	Triennial
+CAT	2	8/3/2007	NCV (Green )	(PIM) Degraded Fire Barrier Penetration Seal 	2007007	2007	Triennial
+CAT	2	8/3/2007	NCV (Green )	(PIM) ELU Replacement Batteries Not Tested After Installation 	2007007	2007	Triennial
+CAT 	2	3/27/2004	NCV (Green )	(PIM) Seal Not Installed in a Cable Conduit Penetrating a Fire Barrier 	2004003	2004	Annual/Quarterly
+CAT 	2	3/31/2005	NCV (Green )	(PIM) Insufficient Fire Drill Oversight to Ensure Fire Brigade Performance Deficiencies are Identified 	2005002	2005	Annual/Quarterly
+CAT 	2	9/30/2009	NCV (Green )	(PIM) Failure to perform required hourly fire watch patrols 	2009007	2009	Annual/Quarterly
+CLIN	3	9/30/2004	NCV (Green )	(PIM) PORTABLE FIRE EXTINGUISHER MISSING FROM ITS DESIGNATED STORAGE. 	2004006	2004	Annual/Quarterly
+CLIN	3	3/31/2005	NCV (Green )	(PIM) FAILURE TO ESTABLISH ADEQUATE COMPENSATORY ACTIONS (HOURLY FIRE WATCH) ACCORDING TO FIRE PROTECTION PROGRAM PROCEDURES. 	2005003	2005	Annual/Quarterly
+CLIN	3	12/31/2007	NCV (Green )	(PIM) Failure to implement fire protection program in accordance with program requirements 	2007005	2007	Annual/Quarterly
+CLIN	3	3/31/2008	NCV (Green )	(PIM) FAILURE TO FOLLOW APPROVED FIRE PROTECTION PROGRAM PROCEDURES CONCERNING CONTROL OF TRANSIENT COMBUSTIBLE MATERIAL. 	2008002	2008	Annual/Quarterly
+CLIN	3	12/31/2008	NCV (Green )	(PIM) FAILURE TO CONTROL TRANSIENT COMBUSTIBLE MATERIALS IN ACCORDANCE WITH FIRE PROTECTION PROGRAM. 	2008005	2008	Annual/Quarterly
+CNS	4	4/6/2001	NCV (Green )	Failure to provide 20 feet separation between redundant service water equipment.	2001003 The ROP website did not have this finding; it was obtained by opening the triennial report.	2001	Triennial
+CNS	4	4/7/2001	NCV (Green )	Failure to provide adequate emergency lighting to perform operator actions for safe shutdown.	2001003 The ROP website did not have this finding; it was obtained by opening the triennial report.	2001	Triennial
+CNS	4	4/8/2001	NCV (Green )	Failure to install detectors as documented in the safety evaluation report which was not in accordance with 10 CFR 50.48(b).	2001003 The ROP website did not have this finding; it was obtained by opening the triennial report.	2001	Triennial
+CNS	4	4/9/2001	NCV (Green )	"Failure to perform calculations to ensure that the locations and conditions of fire areas did not require as much water as is discharged by nominal 1/2-inch orifice sprinkler, as required by NFPA 13 Code requirements"	2001003 The ROP website did not have this finding; it was obtained by opening the triennial report.	2001	Triennial
+CNS	4	7/2/2004	NCV (Green )	(PIM) Failure to ensure redundant safe shutdown systems located in the same fire area are free of fire damage. 	2004008	2004	Triennial
+CNS	4	7/2/2004	NCV (Green )	"(PIM) Three examples of a NCV of Technical Specification 5.4.1.d for failure to provide adequate instructions in Emergency Procedure 5.4 Fire-S/D, ""Fire Induced Shutdown From Outside Control."	2004008	2004	Triennial
+CNS	4	3/18/2008	Violation (White )	(PIM) Failure to ensure that some steps contained in emergency procedures would work as written	"Open in TR 2007008 as URI, then became an AV in the follow-up inspection 2008007 and was declared a White Violation in IR 2008008"	2007	Triennial
+CNS 	4	4/1/2000	NCV (Green )	(PIM) APPENDIX R LIGHTING INADEQUATE 	2000004	2000	Annual/Quarterly
+CNS 	4	1/3/2002	NCV (Green )	(PIM) Failure to follow procedure resulting in a fire 	2001007	2002	Annual/Quarterly
+CNS 	4	10/5/2002	NCV (Green )	(PIM) NCV of License Condition 2.C.(4) for failure to maintain operability of a fire suppression system. 	2002003	2002	Annual/Quarterly
+CNS 	4	4/3/2003	NCV (Green )	"(PIM) Failure to implement the procedural requirements of Administrative Procedure 0.39 ""Fire Watches,"" Revision 27, affected the mitigating systems cornerstone. "	2003004	2003	Annual/Quarterly
+CNS 	4	12/31/2004	NCV (Green )	(PIM) Failure to Implement the Station Fire Watch Procedure 	2004005	2004	Annual/Quarterly
+CNS 	4	6/24/2006	NCV (Green )	(PIM) Failures to Properly Control Combustibles in the Plant 	2006003	2006	Annual/Quarterly
+CNS 	4	9/23/2009	NCV (Green )	(PIM) Failure to Follow Scaffold Procedure Threatens Fire Protection Equipment 	2009004	2009	Annual/Quarterly
+COOK	3	4/11/2003	NCV (Green )	(PIM) Failure to Ensure Alternative Shutdown Capability Could Accommodate Post-Fire Conditions Where Off-Site Power is Not Available 	2003005	2003	Triennial
+COOK	3	4/11/2003	NCV (Green )	(PIM) Failure to Ensure Control Room Ventilation Would be Free of Fire Damage 	2003005	2003	Triennial
+COOK	3	4/11/2003	NCV (Green )	(PIM) Failure to Provide Adequate Emergency Lighting 	2003005	2003	Triennial
+COOK	3	4/11/2003	NCV (Green )	(PIM) Inadequate Carbon Dioxide Concentrations 	2003005	2003	Triennial
+COOK	3	12/29/2001	NCV (N/A )	(PIM) Failure to Ensure That Breaker Coordination and Selective Tripping was Provided at the 4.16 kV System 	This was a combined inspection were they looked the FP Safe Shutdown Analysis.  Inspection repot 2001019	2001	Annual/Quarterly
+COOK	3	12/29/2001	NCV (N/A )	(PIM) Failure to Ensure That Breaker Coordination and Selective Tripping was Provided at the 4.16 kV System 	2001019. Found in the triennial search.	2001	Annual/Quarterly
+CP	4	2/8/2002	NCV (Green )	(PIM) Failure to establish and maintain adequate procedures covering activities associated with fire protection program implementation 	Open in TR 2002003 as URI and closed in an IR 2002006.	2002	Triennial
+CP	4	6/23/2006	NCV (Green )	(PIM) Operators Unable to Meet Some Critical Action Times During Alternate Shutdown Walkthrough 	Open in TR 2005008 as URI and closed as NCV in IR 2006003.	2005	Triennial
+CP	4	9/19/2009	NCV (Green )	(PIM) Inadequate Postfire Safe Shutdown Procedure 	Open in TR 2008006 as URI and closed as NCV in IR 2009004.	2008	Triennial
+CP	4	9/19/2009	NCV (Green )	(PIM) Failure to Assure That One Train of Equipment is Free From Fire Damage 	"Open in TR 2008006 and closed as NCV in IR 2009004. This NCV came from the analysis of the URI ""Unapproved Local Manual Actions for Hot Shutdown""."	2008	Triennial
+CP	4	9/19/2009	NCV (Green )	(PIM) Inadequate Alternative Shutdown Procedure 	Open in TR 2008006 and closed as NCV in IR 2009004.	2008	Triennial
+CP	4	5/22/2008	NCV (Green )	(PIM) Inadequate Fire Suppression Systems 	2008006	2008	Triennial
+CP	4	5/22/2008	NCV (Green )	(PIM) Inadequate Post-Fire Safe Shutdown Procedures 	2008006	2008	Triennial
+CP	4	6/22/2008	NCV (Green )	(PIM) Inadequate Fire Protection Compensatory Actions During Refueling Outage. 	2008003. Found in the triennial search.	2008	Annual/Quarterly
+CP	4	6/22/2008	NCV (Green )	(PIM) Failure to Expeditiously Restore Fire Hose Stations in Containment to Service 	2008003. Found in the triennial search.	2008	Annual/Quarterly
+CP	4	9/21/2008	NCV (Green )	"(PIM) ""Failure to Ensure Roll-up Fire Doors Complied With Fire Code"" "	2008004. Found in the triennial search.	2008	Annual/Quarterly
+CP 	4	9/21/2008	NCV (Green )	"(PIM) ""Failure to Control Transient Combustibles"" "	2008004	2008	Annual/Quarterly
+CP 	4	9/19/2009	NCV (Green )	(PIM) Failure to Seal Electrical Enclosure 	2009004	2009	Annual/Quarterly
+CR	2	7/12/2002	NCV (Green)	"(Non-PIM) Failure to Protect One Train of Safe Shutdown Equipment From Fire Damage in Accordance with Appendix R, Section III.G.2 (Three Examples). "	Open in 2002005 (Triennial) and closed in an Integrated report 2003005. It was consider a Green Non-cited violation under 2003005. It was declared as a Quarterly Inspection finding.	2002	Triennial
+CR	2	9/7/2005	Violation (White )	(PIM) Unprotected Post-Fire Safe Shutdown Cables and Related Non-feasible Local Manual Operator Action	"Open in TR 2004009 as URI, then became an AV in IR 2005007 and was declared a White Violation in IR 2005011."	2004	Triennial
+CR 	2	12/30/2000	NCV (Green )	(PIM) Failure to Implement Fire Protection Plan Requirements When Two Cable Spreading Room Fire Dampers Were Not Operable. 	2000004	2000	Annual/Quarterly
+CR 	2	3/31/2001	NCV (Green )	(PIM) Failure to Implement Fire Protection Requirements for Inoperable Fire Damper. 	2000005	2001	Annual/Quarterly
+DAVI	3	9/17/2004	NCV (SL-IV )	(PIM) Incomplete Information Provided to NRC in Licensing Submittal 	2004009	2004	Triennial
+DAVI	3	6/30/2005	NCV (Green )	"(PIM) INOPERABILITY OF EMERGENCY BATTERY PACKS AND ASSOCIATED LIGHTING CREDITED WITH LICENSEE COMPLIANCE TO 10 CFR 50, APPENDIX R, SECTION III.J "	2005007	2005	Annual/Quarterly
+DAVI	3	6/30/2006	NCV (Green )	"(PIM) FIRE PROTECTION, TRANSIENT COMBUSTIBLES ON THE DRY FUEL STORAGE PAD "	2006003	2006	Annual/Quarterly
+DIAB	4	4/7/2000	Finding (Green )	(PIM) Degraded 1-hour fire-rated ceiling in Fire Area 4A and degraded 2-hour fire-rated barrier between Fire Areas 4A and 4B. 	2000003	2000	Triennial
+DIAB	4	3/18/2003	NCV (Green )	(PIM) Two examples of a violation of Technical Specification 5.4.1.d for inadequate fire protection implementation procedure 	2003002	2003	Triennial
+DIAB	4	7/24/2009	NCV (Green )	(PIM) Safe Shutdown Procedure Not Consistent with Safe Shutdown Analysis 	2009008	2009	Triennial
+DIAB	4	9/27/2003	NCV (Green )	(PIM) Two Examples of a Violation of Technical Specification 5.4.1.d for Inadequate Fire Protection Implementation 	2003007	2003	Annual/Quarterly
+DIAB	4	12/31/2003	NCV (TBD )	(PIM) Failure to Adequately Train Operations Responders in Support of the Fire Brigade 	2003008	2003	Annual/Quarterly
+DIAB	4	3/31/2005	NCV (Green )	(PIM) Failure to correct fire program violation concerning qualifications of Operations Responders in support of the fire brigade 	2005002	2005	Annual/Quarterly
+DIAB	4	8/23/2006	NCV (Green )	(PIM) Failure to Promptly Identify that the Correct Equipment Necessary for Implementing EOP for Inadequate Core Cooling Was Not Pre-staged 	2006004	2006	Annual/Quarterly
+DIAB	4	2/17/2008	NCV (Green )	(PIM) Failure to Maintain the Integrity of an Auxiliary Building Fire Door 	2008002	2008	Annual/Quarterly
+DIAB	4	9/30/2008	NCV (Green )	(PIM) Failure to Perform a Safety Assessment for Following Discovery of Explosive Gas in the Auxiliary and Containment Buildings 	2008004	2008	Annual/Quarterly
+DIAB	4	9/25/2009	NCV (Green )	(PIM) Failure to Identify and Correct a Degraded Fire Barrier 	2009004	2009	Annual/Quarterly
+DRES	3	5/10/2002	NCV (Green )	(PIM) Reactor Water Level Could Drop Below Top of Active Fuel in the Event of Fire 	2002006	2002	Triennial
+DRES	3	12/18/2007	NCV (Green )	Failure to Perform a 10 CFR 50.59 Evaluation for Exceeding Continuous Rating on the EDG.	"Open in TR 2002006, discussed in 2005009 and closed in 2008007.  The URI became two NCV in 2008007. This finding did not appear in the Dynamic website search."	2002	Triennial
+DRES	3	12/18/2007	NCV (Green )	Failure to Meet the EDG Power Factor Testing Requirements	"Open in TR 2002006, discussed in 2005009 and closed in 2008007.  The URI became two NCV in 2008007. This finding did not appear in the Dynamic website search."	2002	Triennial
+DRES	3	4/1/2005	NCV (Green )	(PIM) Safe Shutdown Procedure Failed to Specify Correct Number of Turns for Opening Valve 	2005002	2005	Triennial
+DRES	3	2/15/2008	NCV (Green )	(PIM) Failure to Perform Periodic Trip Tests on Thermal Overload Heaters. 	2008006	2008	Triennial
+DRES	3	1/4/2001	NCV (Green )	(PIM) Failure of the fire marshall to properly evaluate fire drill 	2000021	2001	Annual/Quarterly
+DRES	3	11/13/2001	NCV (N/A )	"(PIM) Failure to have a fire extinguisher readily available, as required by station procedures, while performing hot work activities "	2001019	2001	Annual/Quarterly
+DRES	3	9/30/2002	NCV (Green )	(PIM) The licensee failed to follow the procedure for ensuring timely fire watch response. 	2002012	2002	Annual/Quarterly
+DRES	3	9/30/2003	NCV (Green )	"(PIM) Failure to Meet Technical Specification 5.4.1, Fire Protection Program Implementation for Hot Work Activities "	2003007	2003	Annual/Quarterly
+DRES	3	6/29/2006	NCV (Green )	(PIM) Failure to Identify an Inoperable 3-hour Fire Barrier Wall in the Unit 2 EDG Day Tank Room 	2006007	2006	Annual/Quarterly
+DRES	3	12/31/2006	NCV (Green )	"(PIM) Licensee’s Failure to Develop a Pre-fire Plan for Fire Zone 8.2.6.A, Elevation 534' "	2006011	2006	Annual/Quarterly
+DRES	3	6/12/2007	NCV (Green )	(PIM) Failure to Restore Fire Brigade Equipment to a Ready Status in a Timely Manner after the Performance of a Fire Drill 	2007003	2007	Annual/Quarterly
+DRES	3	6/30/2008	NCV (Green )	(PIM) Fire Doors Failed Their Periodic Functional Test 	2008003	2008	Annual/Quarterly
+DRES	3	3/31/2009	NCV (Green )	(PIM) Failure to Develop a Pre Fire Plan for Fire Zone 18.6 	2009002	2009	Annual/Quarterly
+DUAN	3	3/7/2003	NCV (Green )	(PIM) Lack of Demonstrated Reactor Water Level Instrumentation 	2003002	2003	Triennial
+DUAN	3	2/14/2003	NCV (Green )	(PIM) Inadequate Circuit Breaker Coordination for Instrument Power Supply 	2003002	2003	Triennial
+DUAN	3	2/14/2003	NCV (Green )	(PIM) Inadequate Corrective Action for Potential for Smoke to Enter Control Room 	2003002	2003	Triennial
+DUAN	3	10/6/2009	NonCited Violation (Green )	(PIM) Failure to Identify and Address an Adverse Trend in Performing Required Fire Watches 	2009006	2009	Triennial
+DUAN	3	7/10/2000	Finding (Green )	"(PIM) DURING A WALKDOWN OF THE REACTOR BUILDING, THE INSPECTORS IDENTIFIED THAT SEVERAL PORTABLE FIRE EXTINGUISHERS WERE MISSING FROM THEIR ASSIGNED LOCATION. "	2000003	2000	Annual/Quarterly
+DUAN	3	9/30/2005	NCV (Green )	(PIM) FAILURE TO MEET TRAVEL DISTANCE REQUIREMENTS FOR FIRE EXTINGUISHERS IN THE REACTOR BUILDING. 	2005004	2005	Annual/Quarterly
+DUAN	3	12/31/2005	NCV (Green )	(PIM) FAILURE TO IDENTIFY AND CONTROL TRANSIENT COMBUSTIBLES IN THE SOUTHEAST CORNER ROOM OF THE REACTOR BUILDING. 	2005005	2005	Annual/Quarterly
+FAR	2	9/13/2002	NCV (Green )	(PIM) Failure to Obtain NRC Approval Prior to Implementing Changes to the Approved Fire Protection Program 	2002006	2002	Triennial
+FAR	2	9/13/2002	NCV (Green )	(PIM) Failure to Revise Procedure AOP-29.0 Promptly 	2002006	2002	Triennial
+FAR	2	9/13/2002	NCV (Green )	(PIM) Failure to Maintain and Implement Fire Protection Program Transformer Fluid Confinement Features Required by the Listing Agency 	2002006	2002	Triennial
+FAR	2	4/4/2008	NonCited Violation (Green )	(PIM) Fire Procedure Credits Unreliable Indication 	Open in TR 2005006 as URI and closed in TR 2008006 as NCV. 	2005	Triennial
+FAR	2	5/23/2005	NCV (Green )	(PIM) Unapproved Local Manual Operator Actions for Post-Fire Safe Shutdown 	2005006	2005	Triennial
+FAR	2	12/31/2006	NCV (Green )	(Non-PIM) Fire Procedure Failed to Ensure that AC Power Would Be Available 	Open in TR 2005007 and closed in IR 2006005.  This finding did not appear in any search from the Dynamic Website. It was taken from the report.	2005	Triennial
+FAR	2	4/4/2008	NCV (Green )	(PIM) Areas Where OMAs Are Performed Did Not Have ELUs Installed 	2008006	2008	Triennial
+FAR	2	4/4/2008	NCV (Green )	(PIM) ELU Test Failures Were Not Documented In CRs As Required By Procedure 	2008006	2008	Triennial
+FCS	4	3/10/2000	NCV (Green )	(PIM) Failure to Ensure One Train of Systems Required for Safe Shutdown is Free of Fire Damage 	Open in TR 2000001 as an Apparent Violation and it was closed as NCV in the TR 2005008.	2000	Triennial
+FCS	4	3/11/2000	NCV (Green )	Failure to maintain in effect all provisions of the NRC-approved fire protection program in Fire Area 32	2000001. This NCV was taken from the inspection report and not from the website.	2000	Triennial
+FCS	4	1/17/2003	NCV (Green )	(PIM) Failure to Assure that at Least One Train of Charging Pumps Was Free of Fire Damage 	2003002	2003	Triennial
+FCS	4	9/30/2006	NCV (Green )	(PIM) Failure to Implement reasonable and Feasible Manual Actions 	Open in TR 2005008 and closed in an IR 2006004. This URI became a NCV in that report.  	2005	Triennial
+FCS	4	9/30/2006	NCV (Green )	(PIM) Inadequate Alternate Shutdown Procedure 	Open in TR 2005008 and closed in an IR 2006004.  This URI became a NCV in that report.  	2005	Triennial
+FCS	4	11/10/2005	NCV (Green )	(PIM) Failure to Take Prompt Corrective Action for Fire Protection Program Deficiencies 	2005008	2005	Triennial
+FCS	4	8/15/2008	NCV (Green )	(PIM) Untimely Corrective Actions for Degraded Fire Protection Water Supply System 	2008009	2008	Triennial
+FCS	4	8/15/2008	NCV (Green )	(PIM) Inadequate Corrective Actions Related to Revising a Post-fire Safe Shutdown Procedure 	2008009	2008	Triennial
+FCS 	4	6/30/2004	NCV (Green )	(PIM) Failing to Ensure that Fire Barriers Protecting Safety-Related Areas Were Functional 	2004003	2004	Annual/Quarterly
+FCS 	4	6/30/2004	NCV (Green )	(PIM) Failure to Provide Fire Protection Features for Components Important to Achieve and Maintain Cold Shutdown 	2004003	2004	Annual/Quarterly
+FCS 	4	6/30/2004	NCV (Green )	(PIM) Failure to Provide Compensatory Measures When Blocking a Fire Hose Station 	2004003	2004	Annual/Quarterly
+FCS 	4	3/31/2005	NCV (Green )	(PIM) Failure to Control Transient Combustible Materials that Exceeded the Fire Load limit for an Area 	2005002	2005	Annual/Quarterly
+FCS 	4	3/31/2005	NCV (Green )	(PIM) Failure to ensure that fire barriers protecting safety-related areas were functional 	2005002	2005	Annual/Quarterly
+FCS 	4	6/30/2006	NCV (Green )	(PIM) Nonfunctional Fire Barrier Separating Corridor 23 (Fire Area 20.1) and Room 61 (Fire Area 20.4) 	2006003	2006	Annual/Quarterly
+FERM	3	12/6/2002	NCV (Green )	(PIM) Failure to Have Adequate Procedures for Alternative Shutdown in Effect 	2002008	2002	Triennial
+FERM	3	12/6/2002	NCV (Green )	(PIM) Failure to Take Prompt Corrective Actions to Correct Identified Deficiencies in Alternative Shutdown Procedure 	2002008	2002	Triennial
+FERM	3	9/30/2006	NCV (Green )	(PIM) Temperatures in Dedicated Shutdown Panel Area - Balance of Plant Switchgear Room 	Open in TR 2005006 and closed as NCV in IR 2006004	2005	Triennial
+FERM	3	7/15/2005	NCV (Green )	(PIM) Failure to Have Separation Between Redundant Safe Shutdown Cables (Section 1R05.2) 	2005006	2005	Triennial
+FERM	3	7/15/2005	NCV (Green )	(PIM) Failure to Ensure that Adequate Electrical Coordination Existed in Post -Fire Alternate Shutdown Circuits (Section 1R05.3) 	2005006	2005	Triennial
+FERM	3	7/15/2005	NCV (Green )	(PIM) Failure to Install Smoke Detectors in Accordance with NFPA 72-E (Section 1R05.10) 	2005006	2005	Triennial
+FERM	3	7/15/2005	NCV (Green )	(PIM) Failure to Implement Adequate Corrective Actions in a Timely Manner (Section 4OA2) 	2005006	2005	Triennial
+FERM	3	5/8/2008	NCV (Green )	(PIM) Failure to Ensure Air Supply Tubing for Safe Shutdown Valves Free of Fire Damage 	2008006	2008	Triennial
+FERM	3	5/8/2008	NCV (Green )	(PIM) High Pressure Coolant Injection Room Sprinkler System Failed to Protect Against Hazard 	2008006	2008	Triennial
+FERM	3	5/8/2008	NCV (Green )	(PIM) Reactor Core Isolation Cooling Room Sprinkler System Improperly Installed 	2008006	2008	Triennial
+FERM	3	5/8/2008	NCV (Green )	(PIM) Lack of Basis for Diesel Fire Pump Temperature De-Rating 	2008006	2008	Triennial
+FERM	3	5/8/2008	NCV (Green )	(PIM) Alternate Shutdown Procedure Failed to Identify Time-Critical Steps 	2008006	2008	Triennial
+FERM	3	6/30/2006	NCV (Green )	(PIM) Improper Storage of Chemicals Affecting Fire Fighting Response 	2006003	2006	Annual/Quarterly
+FERM	3	6/30/2006	NCV (Green )	(PIM) Unauthorized Transient Combustibles in Safety-Related Areas 	2006003	2006	Annual/Quarterly
+FERM	3	6/30/2007	Finding (Green )	(PIM) Failure to Control Transient Combustibles 	2007004	2007	Annual/Quarterly
+FERM	3	9/30/2008	NCV (Green )	"(PIM) Failure to Install Smoke Detectors in the Reactor Building, First Floor, Beam Pockets. "	2008004	2008	Annual/Quarterly
+FITZ	1	5/16/2008	NCV (Green )	(PIM) Inadequate Procedure Guidance to Address Spurious Failures of the RCIC and LPCI Systems 	2008006	2008	Triennial
+FITZ	1	9/30/2004	NCV (Green )	(PIM) Transient Combustible Control Requirements for the Screenwell Not Met 	2004004	2004	Annual/Quarterly
+GG	4	9/17/2002	NCV (Green )	(PIM) Inadequate alternative shutdown procedure 	2002007	2002	Triennial
+GG	4	9/18/2002	NCV (Green )	Failure to protect radio repeaters	2002007.  Check because this finding is included in the annual findings.  I found this finding in the triennial report not in the website.	2002	Triennial
+GG	4	4/11/2006	NCV (Green )	(PIM) Inadequate Alternative Shutdown Procedure for Locally Starting and Loading an EDG 	Open in TR 2005008 as URI and closed in IR 2006002 as NCV.	2005	Triennial
+GG	4	5/12/2005	Finding (Green )	(PIM) Inadequate Fire Drill Critique 	2005008	2005	Triennial
+GG	4	5/12/2005	Finding (Green )	(PIM) No Procedures for Implementing Two Repairs Needed to Achieve Cold Shutdown Following A CR Fire 	2005008	2005	Triennial
+GG	4	5/12/2005	NCV (Green )	(PIM) Alternative Shutdown Procedure Did Not Implement Safe Shutdown Analysis Assumption to Isolate Containment in a Timely Manner 	2005008	2005	Triennial
+GG	4	4/18/2008	NCV (Green )	(PIM) Failure to Evaluate Fire Wrap Testing Discrepancies 	2008006	2008	Triennial
+GG	4	4/18/2008	NCV (Green )	(PIM) Fire Brigade Members Assigned Responsibilities That Conflicted with Fire Brigade Responsibilities. 	2008006	2008	Triennial
+GG	4	4/18/2008	NCV (Green )	(PIM) Plant Modification Blocked Access for Manual Firefighting. 	2008006	2008	Triennial
+GG	4	4/18/2008	NCV (Green )	(PIM) Failure to Ensure That Potential Damage to Motor-Operated Valve Circuits Would Not Prevent Safe Shutdown. 	2008006	2008	Triennial
+GG 	4	6/29/2000	Finding (Green )	(PIM) Increased Risk of Loss of Instrument Air System Due to Fire 	2000006	2000	Annual/Quarterly
+GG 	4	9/30/2006	NCV (Green )	(PIM) Failure to Control Loose Items in Safety Related Areas 	2006004	2006	Annual/Quarterly
+GG 	4	3/22/2008	NCV (Green )	(PIM) Failure to Implement an Adequate Compensatory Fire Watch per Station Fire Protection Procedures. 	2008002	2008	Annual/Quarterly
+GG 	4	6/21/2008	NCV (Green )	(PIM) Inadequate Fireproofing on Fire Barrier Protecting the Safeguards Switchgear Room 	2008003	2008	Annual/Quarterly
+GG 	4	12/31/2008	Finding (Green )	(PIM) Inadequate Fire Drill Critique 	2008005	2008	Annual/Quarterly
+GINN	1	11/17/2000	NCV (Green )	(PIM) Failure to ensure that the alternate shutdown capability for the screen house was electrically and physically independent of the area. 	2000009	2000	Triennial
+GINN	1	9/30/2004	NCV (Green )	(PIM) Non-Rated Cable Tunnel Hatch 	Open in TR 2003013 as URI and closed in IR 2004004 as a NCV.	2003	Triennial
+GINN	1	6/23/2006	NCV (Green )	(PIM) Missed Fire Brigade Training 	2006007	2006	Triennial
+GINN	1	12/30/2000	NCV (Green )	(PIM) Failure to adequately establish a continuous fire watch. 	2000010	2000	Annual/Quarterly
+GINN	1	5/18/2002	NCV (Green )	(PIM) Failure to formally control and evaluate a compensatory fire protection measure installed to provide a temporary water supply to the containment fire hose reels. 	2002003	2002	Annual/Quarterly
+GINN	1	9/28/2002	NCV (Green )	(PIM) A natural gas supply isolation valve to the screen house had been covered by several inches of gravel and asphalt pavement and could not be operated during a fire. 	2002005	2002	Annual/Quarterly
+GINN	1	12/28/2002	Finding (Green )	(PIM) Failure to implement all aspects of the fire attack strategy 	2002006	2002	Annual/Quarterly
+GINN	1	3/29/2003	NCV (Green )	(PIM) Intermittent control room roof leakage not identified and repaired 	2003003	2003	Annual/Quarterly
+GINN	1	12/31/2005	NCV (Green )	(PIM) Failure to Maintain Fire Protection Procedures as Required by Technical Specification 5.4.1 	2005005	2005	Annual/Quarterly
+GINN	1	3/31/2006	NCV (Green )	(PIM) INADEQUATE CONTROL OF TRANSIENT COMBUSTIBLE MATERIAL 	2006002	2006	Annual/Quarterly
+HAR	2	10/31/2003	NCV (Green )	(PIM) INADEQUATE IMPLEMENTATION OF THE FIRE PROTECTION PROGRAM FOR SAFE SHUTDOWN 	This NCV was declared in an in-office review of the significance of the triennial fire protection inspection findings of TR 2002011. The inspection report number is 2003007.	2002	Triennial
+HAR	2	10/31/2003	NCV (Green )	(PIM) INADEQUATE CORRECTIVE ACTION FOR A PREVIOUS WHITE FIRE PROTECTION FINDING 	This NCV was declared in an in-office review of the significance of the triennial fire protection inspection findings of TR 2002011. The inspection report number is 2003007.	2002	Triennial
+HAR	2	11/7/2008	NCV (Green )	(PIM) Sprinkler System in Cable Spreading Room A Does Not Meet Licensee’s Fire Protection Program Requirements 	2008008	2008	Triennial
+HAR	2	9/6/2002	Violation (White )	(Non-PIM) FAILURE TO IMPLEMENT AND MAINTAIN NRC APPROVED FIRE PROTECTION PROGRAM SAFE SHUTDOWN SYSTEM SEPARATION REQUIREMENTS	"Open in TR 1999013 as URI, then became an AV in open item IR 2000009 and was declared a White Violation in supplemental report 2002008. The violation was officially closed in the report 2003007."	1999	Triennial
+HAR	2	4/1/2000	NCV (Green )	(PIM) Fire protection wrap/penetration seal interface problems 	This NCV was found in the integrated report 2000001.  This NCV should be a finding under quarterly procedure.	2000	Annual/Quarterly
+HAR 	2	9/29/2001	NCV (Green )	(PIM) INADEQUATE FUSE COORDINATION FOR PORV BLOCK VALVES 	2001004	2001	Annual/Quarterly
+HAR 	2	12/29/2001	NCV (Green )	(PIM) TWO EXAMPLES OF FAILURE TO IMPLEMENT THE FIRE PROTECTION PROGRAM IN B CABLE SPREADING ROOM TUNNEL 	2001005	2001	Annual/Quarterly
+HAR 	2	4/5/2003	NCV (Green )	(PIM) INADEQUATE ROVING CONTINUOUS FIRE WATCHES 	2003002	2003	Annual/Quarterly
+HAT	2	6/30/2005	NCV (Green )	(PIM) Untimely and Unapproved Manual Operators Actions for Post-Fire SSD 	Open in TR 2003006 as URI and closed in IR 2005003 as NCV.	2003	Triennial
+HAT	2	7/25/2003	NCV (Green )	(Non-PIM) Inadequate Procedure for Local Manual Operator Action for Post-Fire Safe Shutdown Equipment 	2003006	2003	Triennial
+HAT	2	7/25/2003	NCV (Green )	(PIM) Unapproved Manual Operator Actions for Post-Fire Safe Shutdown 	2003006	2003	Triennial
+HAT	2	7/25/2003	NCV (Green )	(PIM) Inadequate Emergency Lighting for Operation of Post-Fire SSD Equipment 	2003006	2003	Triennial
+HAT 	2	6/30/2001	NCV (Green )	(PIM) Inadequate Separation of Residual Heat Removal Service Water (RHRSW) Cables. 	2001003	2001	Annual/Quarterly
+HOPE	1	1/26/2001	Finding (Green )	(PIM) SHUTDOWN OUTSIDE CONTROL ROOM PROCEDURE COULD NOT BE PERFORMED AS WRITTEN 	2001002	2001	Triennial
+HOPE	1	3/31/2001	NCV (Green )	(PIM) FAILURE TO PROVIDE A THREE-HOUR RATED FIRE BARRIER TO ENSURE APPENDIX R SEPARATION BETWEEN TWO SHUTDOWN TRAINS. 	2001004	2001	Annual/Quarterly
+HOPE	1	12/29/2001	NCV (Green )	(PIM) PSEG NUCLEAR DID NOT IDENTIFY AND ADMINISTRATIVELY CONTROL TRANSIENT COMBUSTIBLES MATERIALS IN THE HPCI PUMP AND TURBINE ROOM 	2001011	2001	Annual/Quarterly
+HOPE	1	12/29/2001	NCV (Green )	(PIM) PSEG NUCLEAR DID NOT PROPERLY IMPLEMENT FIRE PROTECTION PROGRAM REQUIREMENTS FOR AN INOPERABLE FIRE DOOR 	2001011	2001	Annual/Quarterly
+HOPE	1	9/30/2002	NCV (Green )	(PIM) PSEG NUCLEAR DID NOT IDENTIFY AND ADMINISTRATIVELY CONTROL TRANSIENT COMBUSTIBLES MATERIALS IN THE HPCI PUMP AND TURBINE ROOM 	2002006	2002	Annual/Quarterly
+HOPE	1	3/30/2004	NCV (Green )	(PIM) IMPROPER CONTROL OF TRANSIENT COMBUSTIBLES IN CORE SPRAY ROOM 	2004002	2004	Annual/Quarterly
+HOPE	1	9/30/2004	NCV (Green )	(PIM) INADEQUATE CONTROL OF TRANSIENT COMBUSTIBLE MATERIAL 	2004004	2004	Annual/Quarterly
+INP3	1	2/21/2002	NCV (Green )	(PIM) INADEQUATE PROCEDURE FOR TRANSITION TO COLD SHUTDOWN DURING SHUTDOWN FROM OUTSIDE THE CONTROL ROOM 	2001012	2002	Triennial
+INP3	1	2/8/2008	NCV (Green )	(PIM) Inadequate Procedure Guidance to Diagnose and Align RCP Seal Cooling 	2008007	2008	Triennial
+INP3	1	2/8/2008	NCV (Green )	(PIM) Inadequate Procedure Guidance to Isolate Steam Generator Blow down Flow 	2008007	2008	Triennial
+INP3	1	2/8/2008	NCV (Green )	(PIM) Inadequate Procedure Directions to De-energize PORV and Letdown Valve Circuits 	2008007	2008	Triennial
+INP3	1	3/31/2004	NCV (Green )	(PIM) INADEQUATE IMPLEMENTATION OF FIRE PROTECTION PROCEDURES 	2004002	2004	Annual/Quarterly
+INPT	1	4/13/2001	NCV (Green )	(PIM) Failure to have adequate length of fire hose staged for manual fire fighting in the central control room 	2000004	2001	Triennial
+INPT	1	4/13/2001	NCV (Green )	(PIM) Failure to provide adequate isolation of circuits from the central control room 	2000004	2001	Triennial
+INPT	1	9/30/2000	NCV (Green )	(PIM) A minor fire inside containment occurred due to a failure to properly evaluate and control transient combustibles during a grinding evolution 	2000011	2000	Annual/Quarterly
+INPT	1	9/30/2000	NCV (Green )	(PIM) Inadequate fire fighting strategy instruction existed to align fire suppression water to containment 	2000011	2000	Annual/Quarterly
+INPT	1	9/30/2000	NCV (Green )	"(PIM) During implementation of a plant modification, workers failed to perform a work area walkdown, pre-job brief, and review of removal drawings "	2000011	2000	Annual/Quarterly
+INPT	1	7/7/2001	NCV (N/A )	(PIM) FIRE PROTECTION DESIGN BASIS COMBUSTIBLE LOADING 	2001006	2001	Annual/Quarterly
+INPT	1	3/31/2004	NCV (Green )	(PIM) NON-CITED VIOLATION OF TS 5.4.1.d FOR THE FAILURE TO PERFORM A TRANSIENT COMBUSTIBLE EVALUATION FOR 330 GALLONS OF OIL TEMPORARILY STORED IN FIRE ZONE 6A 	2004002	2004	Annual/Quarterly
+INPT	1	7/20/2004	NCV (Green )	(PIM) Failure to implement appropriate design controls for electrical cable and raceway installations. 	2004009	2004	Annual/Quarterly
+INPT	1	4/2/2005	NCV (Green )	(PIM) FAILURE TO IMPLEMENT ADEQUATE INTERIM COMPENSATORY MEASURES FOR FIRE BARRIER IMPAIRMENTS 	2005002	2005	Annual/Quarterly
+INPT	1	1/29/2006	NCV (Green )	(PIM) DEGRADED RESIDUAL HEAT REMOVAL PUMP FIRE DOOR 	2006002	2006	Annual/Quarterly
+INPT	1	6/30/2006	NCV (Green )	(PIM) FAILURE TO IDENTIFY DEGRADED RESIDUAL HEAT REMOVAL PUMP CELL FIRE DOOR 	2006003	2006	Annual/Quarterly
+INPT	1	10/3/2007	NCV (Green )	(PIM) Degraded 12 Fire Main Booster Pump Cell Fire Door 	2007004	2007	Annual/Quarterly
+INPT	1	12/31/2007	NCV (Green )	(PIM) FAILURE TO IDENTIFY DEGRADED FIRE BARRIER IN EDG BUILDING 	2007005	2007	Annual/Quarterly
+INPT	1	3/31/2009	NCV (Green )	(PIM) Failure to Identify Damaged Components in EDG Ventilation Motor Control Center #2 	2009002	2009	Annual/Quarterly
+INPT	1	3/31/2009	NCV (Green )	(PIM) Failure to Identify and Promptly Correct Degraded 480 Volt Switchgear Room Fire Door 	2009002	2009	Annual/Quarterly
+KEWA	3	10/2/2002	NCV (Green )	Inappropriate Placement of Diesel Generator Room Heat Detectors	Open in TR 2001002 as URI and closed in this follow-up fire protection inspection 2002006.  This NCV should be a triennial finding because they are closing an URI but it did not appeared in the Dynamic Website at all.	2001	Triennial
+KEWA	3	8/9/2001	NCV (Green )	(PIM) NON-RATED FIRE BARRIER 	Open in TR 2001002 as an Apparent Violation and closed in IR 2001011 as NCV. 	2001	Triennial
+KEWA	3	3/12/2001	NCV (Green )	(PIM) INADEQUATE SMOKE DETECTOR COVERAGE IN FIRE ZONE TU-95B. 	2001002	2001	Triennial
+KEWA	3	12/14/2006	NCV (Green )	"(PIM) Failure to Provide Suppression for Safe Shutdown Equipment in Appendix R, III.G.3 Area "	Open in TR 2004005 as URI and closed in the inspection report 2006016 as NCV.	2004	Triennial
+KEWA	3	7/30/2004	NCV (Green )	(PIM) Failure to Meet the Fire Protection Program Requirements for Hose Lengths to Maintain an Acceptable Water Pressure and Flow at Hose Stations 	2004005	2004	Triennial
+KEWA	3	7/31/2004	NCV (Green )	Failure to Maintain Acceptable (Quality Related) Pre-Fire Strategies	2004005 This NCV was taken from the triennial inspection report. This NCV appeared in the quarterly/annual findings search when it is suppose to be a triennial finding.	2004	Triennial
+KEWA	3	7/30/2004	NCV (Green )	(PIM) Failure to Meet the NFPA Code Requirements for Extinguisher Placement 	2004005	2004	Triennial
+KEWA	3	7/30/2004	NCV (Green )	(PIM) Transient Combustibles Not Adequately Controlled Within Fire Area AX-32 	2004005	2004	Triennial
+KEWA	3	7/30/2004	NCV (Green )	(PIM) Transient Combustibles Not Adequately Controlled Within Fire Area AX-24 	2004005	2004	Triennial
+KEWA	3	7/30/2004	NCV (Green )	(PIM) Failure to Repair the Deluge System Heat Detectors in a Timely Manner 	2004005	2004	Triennial
+KEWA	3	9/11/2008	Finding (N/A )	(Non-PIM) Failure to Provide Fire Detection and Fixed Fire Suppression in an Appendix R III.G.3 Area 	2008008	2008	Triennial
+KEWA	3	9/11/2008	Finding (N/A )	(Non-PIM) Post-fire Shutdown Procedures Failed to Ensure Time-Critical Operator Actions were Performed in an Expeditious Manner 	2008008	2008	Triennial
+KEWA	3	9/11/2008	Finding (N/A )	(Non-PIM) Failure to Protect Pressurize PORV Control Cable for a Fire Scenario 	2008008	2008	Triennial
+KEWA	3	5/22/2000	Finding (Green )	(PIM) FIRE EXTINGUISHERS NOT LOCATED IN ALL AREAS OF CONTAINMENT BUILDING AT BEGINNING OF REFUELING OUTAGE. 	2000007	2000	Annual/Quarterly
+KEWA	3	2/13/2001	NCV (Green )	(PIM) Failure to Test Fire Door in Accordance with Fire Plan 	Inspection report 2001004 This NCV should be in the annual/quarterly finding. 	2001	Annual/Quarterly
+KEWA	3	3/31/2001	NCV (Green )	(PIM) FIRE DOOR FUSIBLE LINKS. 	2001006	2001	Annual/Quarterly
+KEWA	3	9/30/2002	NCV (Green )	(PIM) Failure to Provide Appendix R Barriers Between Dedicated and Alternate Fire Zones 	2002005	2002	Annual/Quarterly
+KEWA	3	12/31/2004	NCV (Green )	(PIM) Inadequate Control Of Combustible Materials 	2004009	2004	Annual/Quarterly
+KEWA	3	12/31/2004	NCV (Green )	(PIM) Inadequate Corrective Action to Preclude Storage of Oxygen Cylinders Next to Flammable Gas Cylinders 	2004009	2004	Annual/Quarterly
+KEWA	3	12/31/2006	NCV (Green )	(PIM) Inadequate Pre-Fire Strategy Identified in Cable Spreading Room 	2006005	2006	Annual/Quarterly
+LASA	3	6/30/2007	NCV (Green )	(PIM) Licensee Relied on Operator Manual Actions for Post-fire SSD. 	Open in TR 2005006 as an URI and closed in IR 2007003 as NCV.	2005	Triennial
+LASA	3	9/2/2005	NCV (Green )	(PIM) Procedures Fail To Ensure Fire Doors Are Operable 	2005006	2005	Triennial
+LASA	3	11/17/2008	NCV (Green )	(PIM) Unauthorized Transient Combustibles 	2008007	2008	Triennial
+LASA	3	11/17/2008	NCV (Green )	(PIM) Failure to provide a sprinkler system for Fire Zone 4F3 	2008007	2008	Triennial
+LASA	3	9/30/2000	Finding (Green )	"(PIM) The inspectors completed the assessment of an issue identified involving two holes between the U1, Div 1 and U1, Div 2 Essential Switchgear Rooms. "	2000013	2000	Annual/Quarterly
+LASA	3	9/30/2000	NCV (Green )	(Non-PIM) 3-Hour Fire Barrier Degradation 	2000013	2000	Annual/Quarterly
+LASA	3	9/30/2002	NCV (Green )	(PIM) Essential Switchgear Room Degraded Fire Barriers 	2002005	2002	Annual/Quarterly
+LASA	3	3/31/2005	NCV (Green )	(PIM) Failure to Properly Implement Procedure Requirements for Hot Work and Ignition Control Results in a Fire in the 2B RHR Corner Room 	2005002	2005	Annual/Quarterly
+LASA	3	6/30/2005	NCV (Green )	(PIM) Failure to Properly Implement Fire Protection Procedure Requirements for Hot Work and Ignition Control Issues. 	2005003	2005	Annual/Quarterly
+LASA	3	9/30/2006	NCV (Green )	(PIM) Failure to Promptly Repair a Degraded Condition Associated with the 2B EDG Day Tank Room Structure 	2006005	2006	Annual/Quarterly
+LASA	3	6/24/2009	NCV (Green )	(PIM) Failure to implement a fire protection program procedure for combustible controls 	2009003	2009	Annual/Quarterly
+LIM	1	8/9/2007	NCV (Green )	(PIM) Inadequate Fire safe Shutdown Procedure for Securing HPCI 	2007006	2007	Triennial
+MCG	2	3/13/2004	NCV (Green )	(PIM) Standby Shutdown Facility was Not Independent of Cables in Fire Areas 2 and 14 	Open in TR 2000009 as URI and closed in an IR 2004003 as NCV.  Not found in the ROP website; obtained from the triennial inspection report.	2000	Triennial
+MCG	2	9/11/2004	NCV (Green )	(PIM) Inadequate Separation and Protection of Cables Associated With Redundant Trains of Instrumentation Located in the Same Fire Area 	Open in TR 2003007 as URI and closed in an IR 2004004 as NCV.	2003	Triennial
+MCG	2	3/13/2004	NCV (Green )	(PIM) Failure to Include Valve 2CA0007A in the Fire Protection Safe Shutdown Analysis for Control Room Fire 	Open in TR 2003007 as URI and closed in an IR 2004003 as NCV.	2003	Triennial
+MCG	2	5/14/2009	NCV (Green )	(PIM) Failure to Take Adequate Corrective Action for Appendix R Emergency Lighting Credited for Operator Action 	2009007	2009	Triennial
+MCG	2	5/14/2009	NCV (Green )	(PIM) Pertinent Fire Brigade Information and Guidance Not Identified in Fire Fighting Strategies 	2009007	2009	Triennial
+MCG 	2	3/13/2004	NCV (Green )	(PIM) Failure to have pre-fire plans for the Unit 1 and 2 interior and exterior doghouses 	2004003	2004	Annual/Quarterly
+MCG 	2	3/13/2004	NCV (SL-IV )	(PIM) Failure to update the UFSAR - (two examples) 	2004003	2004	Annual/Quarterly
+MCG 	2	3/13/2004	NCV (Green )	(PIM) Failure to have a rated 3-hour barrier around the SSF power system 	2004003	2004	Annual/Quarterly
+MCG 	2	6/12/2004	NCV (Green )	(PIM) Failure to update fire strategy plans when a modification removed numerous extinguishers. 	2004004	2004	Annual/Quarterly
+MCG 	2	6/30/2005	NCV (Green )	(PIM) Failure to Have Adequate Procedures to Implement Fire Mitigation Actions For Containment 	2005003	2005	Annual/Quarterly
+MCG 	2	6/30/2005	NCV (Green )	(PIM) Failure to Have Adequate Procedures to Implement SLC Test Requirements for Fire Protection Sprinklers 	2005003	2005	Annual/Quarterly
+MCG 	2	3/31/2006	NCV (Green )	(PIM) Failure to Take Adequate Corrective Action for Repetitive Fire Strategy Plan Deficiencies 	2006002	2006	Annual/Quarterly
+MCG 	2	6/30/2009	NCV (Green )	(PIM) Failure to Adequately Implement Design Control Measures For Fire Protection 	2009003	2009	Annual/Quarterly
+MILL	1	11/2/2001	Finding (Green )	(PIM) INSUFFICIENT COMPENSATORY MEASURES FOR REMOVAL OF CABLE SPREADING ROOM CO2 SUPPRESSION SYSTEM 	2001012	2001	Triennial
+MILL	1	10/5/2007	NCV (Green )	(PIM) Auxiliary Building Fire Safe Shutdown Procedure Lacked RCP Seal Thermal Shock Precautions 	2007007	2007	Triennial
+MILL	1	10/5/2007	NCV (Green )	(PIM) Auxiliary Shutdown Panel Reactor Head Vent Valves Not Isolated from Effects of a Control Room Fire 	2007007	2007	Triennial
+MILL	1	10/5/2007	NCV (Green )	(PIM) Emergency Light Unit High Failure Rate 	2007007	2007	Triennial
+MILL	1	12/5/2008	NCV (Green )	"(PIM) NCV 05000336/2008008-01, Failure to Ensure Equipment Necessary For Fire Safe Shutdown Available. "	2008008	2008	Triennial
+MILL	1	12/5/2008	NCV (Green )	"(PIM) NCV 05000336/2008008-02, Failure to Ensure Timely Manual Action Consistent with the Post-Fire Safe Shutdown Analysis. "	2008008	2008	Triennial
+MILL	1	6/30/2008	NCV (Green )	(PIM) Fire Protection Deficiency Resulting in Potential Loss of All Charging Pumps 	Open in TR 2007007 as URI and closed in IR 2008003 as NCV.	2008	Triennial
+MILL	1	7/1/2000	NCV (Green )	(PIM) FAILURE TO MAINTAIN FIRE FIGHTING STRATEGIES 	2000008	2000	Annual/Quarterly
+MILL	1	8/11/2001	Finding (Green )	(PIM) LICENSEE'S ON-SITE FIRE BRIGADE TEAM RECEIVED A FAILING GRADE FOLLOWING AN UNANNOUNCED FIRE DRILL DUE TO DEGRADATION OF A FIRE PROTECTION DEFENCE-IN-DEPTH FEATURE 	2001006	2001	Annual/Quarterly
+MILL	1	6/29/2002	NCV (Green )	(PIM) FAILURE TO MAINTAIN FIRE BARRIER REQUIREMENTS DESCRIBED IN THE PLANT FIRE HAZARDS ANALYSIS 	2002004	2002	Annual/Quarterly
+MILL	1	6/30/2005	NCV (Green )	(PIM) FAILURE TO EVALUATE EXCEEDING SPECIFIED FIRE LOADING LIMIT FOR MAIN STEAM VALVE ENCLOSURE 	2005003	2005	Annual/Quarterly
+MONT	3	6/21/2002	NCV (Green )	"(PIM) Failure to Meet the Separation Criteria for Redundant Cabling and Equipment in Fire Zone 12A, Intake Structure Pump Room "	2002011	2002	Triennial
+MONT	3	6/21/2002	NCV (Green )	"(PIM) Procedures C.4-b-8.5.A, ""Plant Fire,"" C.4-C, ""Shutdown Outside the Control Room,"" and Other Related Procedures Associated with Responding to a Plant Fire Were Not Appropriate to the Circumstances. "	2002011	2002	Triennial
+MONT	3	6/21/2002	NCV (Green )	"(PIM) Failure to Maintain Full Area Detector Coverage in Zones 23A, 14A, 13B, 19A, and 19B. "	2002011	2002	Triennial
+MONT	3	6/21/2002	NCV (Green )	(PIM) Failure to maintain Complete Sprinkler Coverage in Fire Zones 13A and 13B. 	2002011	2002	Triennial
+MONT	3	6/21/2002	NCV (Green )	(PIM) Failure to Enter Conditions Adverse to Quality into the Corrective Action Program and to Correct Conditions Adverse to Quality. 	2002011	2002	Triennial
+MONT	3	6/21/2002	NCV (SL-IV )	"(PIM) Failure to Perform Written Safety Evaluations and Summit a Summary to the NRC for Changes Made to the FPP, FHA, and SSA from 1984 to 2001. "	2002011	2002	Triennial
+MONT	3	11/4/2005	NCV (Green )	(PIM) FAILURE TO ADDRESS SIGNIFICANT OBSTRUCTION OF SPRINKLER HEADS. 	2005013	2005	Triennial
+MONT	3	4/18/2008	NCV (Green )	(PIM) Uncontrolled Transient Combustibles. 	2008006	2008	Triennial
+MONT	3	4/18/2008	NCV (Green )	(PIM) SHUTDOWN PANEL REQUIREMENTS REMOVED FROM IMPROVED TECHNICAL SPECIFICATIONS. 	2008006	2008	Triennial
+MONT	3	5/30/2001	NCV (Green )	(PIM) FIRE PROTECTION ADMINISTRATIVE CONTROLS. 	2001005	2001	Annual/Quarterly
+MONT	3	3/20/2004	NCV (Green )	(PIM) FAILURE TO FOLLOW FIRE PROTECTION PROGRAM PROCEDURES WHICH REQUIRE THAT CHANGES MADE TO THE FIRE PROTECTION PROGRAM BE EVALUATED FOR IMPACTS TO SAFE-SHUTDOWN CAPABILITIES. 	2004002	2004	Annual/Quarterly
+MONT	3	3/20/2004	NCV (Green )	(PIM) FAILURE TO TAKE PROMPT AND ADEQUATE CORRECTIVE ACTIONS TO CORRECT PRE-FIRE STRATEGIES. 	2004002	2004	Annual/Quarterly
+MONT	3	6/30/2006	Finding (Green )	(PIM) IMPROPER LOOSE MATERIAL STORAGE ADJACENT TO LPCI COMPONENTS. 	2006003	2006	Annual/Quarterly
+MONT	3	12/31/2006	NCV (Green )	(PIM) LICENSEE ANNOUNCED FIRE DRILL IMPLEMENTATION PRACTICE INCONSISTENT WITH THE REQUIREMENTS OF APPENDIX R. 	2006005	2006	Annual/Quarterly
+NA	2	7/1/2000	NCV (Green )	(PIM) INADEQUATE PROCEDURE FOR ALTERNATIVE SHUTDOWN FOR A CONTROL ROOM FIRE 	NCV from IR 2000003 due to continue investigation of the 2 NCV from TR 2000007.  	2000	Triennial
+NA	2	4/31/2000	NCV (Green )	Failure to analyze for the affect on the post-fire safe shutdown capability of fire-induced failures of the main feedwater system.	Open in TR 2000007 as URI and closed in IR 2000006 as a NCV in 2000006. This finding did not show up in the triennial findings neither in the annual/quarterly findings when you do the search in the ROP Web Site.	2000	Triennial
+NA	2	4/31/2001	NCV (Green )	Inadequate procedural guidance for implementing alternate shutdown for a fire in the emergency switchgear room.	Open in TR 2000007 as URI and closed in IR 2000006 as a NCV in 2000006. This finding did not show up in the triennial findings neither in the annual/quarterly findings when you do the search in the ROP Web Site.	2000	Triennial
+NA	2	4/28/2000	NCV (N/A )	(PIM) FAILURE TO ANALYZE NON-SAFETY CIRCUITS WHICH COULD PRODUCE TRANSIENTS DUE TO POTENTIAL FIRE INDUCED SPURIOUS OPERATION 	2000007	2000	Triennial
+NA	2	4/28/2000	NCV (Green )	(PIM) INADEQUATE PROCEDURE GUIDANCE FOR IMPLEMENTING ALTERNATE SHUTDOWN FOR A FIRE IN THE MAIN CONTROL ROOM 	2000007	2000	Triennial
+NA	2	12/31/2004	NCV (Green )	(PIM) Fire Response Procedures Not Adequate to Maintain Reactor Coolant Level Within the Level Indication of the Pressurizer (Section 4OA5) 	Open in TR 2003006 as URI and closed in IR 2004006 as NCV. This finding appeared in the annual/quarterly findings search.	2003	Triennial
+NA	2	6/26/2004	NCV (Green )	(PIM) Alternate Shutdown Panel Ventilation System Not Independent From Impacts of a Main Control Room Fire 	Open in TR 2003006 as URI and closed in IR 2004003 as NCV. 	2003	Triennial
+NA	2	5/23/2003	NCV (Green )	(PIM) Failure to Demonstrate the Fire Resistance Rating of 3-Hour Duct Wrap 	2003006	2003	Triennial
+NA	2	2/10/2006	NCV (Green )	(PIM) Carbon Dioxide System for Unit 2 Cable Vault and Tunnel Area Has Degraded Manual Mode 	2005008	2006	Triennial
+NA	2	11/12/2009	NCV (Green )	(PIM) Failure to Adequately Address the Potential for CO2 Over-pressurization within the Unit 2 Cable Vault & Tunnel 	2009008	2009	Triennial
+NA	2	11/12/2009	NCV (Green )	(PIM) Inadequate Procedure for Powering Credited Components for Fire in Cable Vault & Tunnel. 	2009008	2009	Triennial
+NA 	2	12/31/2006	NCV (Green )	(PIM) Failure to Identify Unsatisfactory Performance of a Fire Brigade Crew 	2006005	2006	Annual/Quarterly
+NA 	2	1/30/2008	NCV (Green )	(PIM) Failure to Adequately Install an Oil Collection System on a Reactor Coolant Pump Motor 	2008002	2008	Annual/Quarterly
+NA 	2	12/31/2008	NCV (Green )	(PIM) Reactor Coolant Pump Motor Oil Collection System Installation and Design Problems 	2008005	2008	Annual/Quarterly
+NMP	1	6/20/2003	NCV (Green )	(PIM) Failure to Promptly Correct Fire Protection Deficiency. 	2003007	2003	Triennial
+NMP	1	6/19/2009	NCV (Green )	Failure to Implement Fire Brigade Training Program Procedure	2009006	2009	Triennial
+NMP 	1	2/10/2001	NCV (Green )	(PIM) INADEQUATE CORRECTIVE ACTIONS ASSOCIATED WITH FIRE DAMPERS. 	2000011	2000	Annual/Quarterly
+NMP 	1	2/10/2001	NCV (Green )	(PIM) FAILURE TO FOLLOW PROCEDURE ASSOCIATED WITH FIRE DAMPER SURVEILLANCE TEST. 	2000011	2000	Annual/Quarterly
+NMP 	1	12/31/2003	NCV (Green )	(PIM) Degraded Penetration Fire Seal not Identified in a Timely Manner. 	2003006	2003	Annual/Quarterly
+NMP 	1	3/31/2004	NCV (Green )	(PIM) Barrier Breach Permits Cleared while Associated Fire Doors were Still Inoperable 	2004002	2004	Annual/Quarterly
+OC	1	11/4/2005	NCV (Green )	"(PIM) Failure to Provide Protection in Accordance with 10 CFR Part 50, Appendix R, Section III.G.2. "	Open in TR 2002011 as URI and closed in TR 2005008 as NCV.	2002	Triennial
+OC	1	6/27/2008	NCV (Green )	(PIM) Failure to Review the Impact of Site Staffing Changes to the Fire Protection Program 	2008008	2008	Triennial
+OC 	1	11/18/2000	Finding (N/A )	(PIM) Personnel Performance During Non-routine Plant Evolutions and Events 	2000008	2000	Annual/Quarterly
+OC 	1	11/18/2000	NCV (Green )	(PIM) Fire Protection 	2000008	2000	Annual/Quarterly
+OC 	1	3/16/2001	NCV (Green )	(PIM) Fire Protection 	2001003	2001	Annual/Quarterly
+OC 	1	8/11/2001	NCV (Green )	(PIM) Routine Fire Protection Walkdowns 	2001007	2001	Annual/Quarterly
+OC 	1	9/30/2006	NCV (Green )	(PIM) Fire Protection Plan Requirements Not Implemented 	2006004	2006	Annual/Quarterly
+OC 	1	3/31/2007	NCV (Green )	(PIM) Improper Identification of an Inoperable Fire Barrier Door 	2007002	2007	Annual/Quarterly
+OCO	2	2/27/2004	NCV (Green )	(PIM) Inadequate Maintenance of Fire Safe Shutdown Procedures 	Open in TR 2002003 as URI and closed in TR in 2004010 as NCV.	2002	Triennial
+OCO	2	7/20/2004	Violation (White )	(PIM) Failure to Meet Licensing Basis for Staffing the SSF in the Event of a Confirmed Fire	Open in TR 2002003 as URI and closed in TR in 2004012 as Apparent Violation. The apparent Violation was discussed in 2004013  in which was declared as a white finding.	2002	Triennial
+OCO 	2	9/30/2000	NCV (Green )	(PIM) Failure to Evaluate Flammable Material Use in the Unit 2 East Penetration Room 	2000006	2000	Annual/Quarterly
+OCO 	2	4/5/2003	NCV (Green )	(PIM) Failure to Evaluate Combustible Material in the KHU Complex 	2003002	2003	Annual/Quarterly
+PALI	3	7/27/2001	NCV (Green )	(PIM) Smoke Detectors Inadequate - Southern Portions of Cable 	Triennial Report 2001008.  Check because this finding is included in the annual findings.  I found this finding in the triennial report not in the website.	2001	Triennial
+PALI	3	7/27/2001	NCV (Green )	(PIM) Smoke Detectors Inadequate - 1-D Switchgear Room 	Triennial Report 2001008.  Check because this finding is included in the annual findings.  I found this finding in the triennial report not in the website.	2001	Triennial
+PALI	3	7/27/2001	Violation (White )	(PIM) Smoke Detectors Inadequate - Northwest Portion of Cable Spreading Room	"Open in TR 2001008 as Apparent Violation, discussed in 2002008 and closed in IR as White Violation."	2001	Triennial
+PALI	3	3/31/2008	NCV (Green )	(PIM) Failure to Ensure Fire Door Was Closed 	2008002	2008	Annual/Quarterly
+PALO	4	8/17/2007	NCV (Green )	(PIM) Inadequate procedure for safe shutdown from outside the control room 	2007008	2007	Triennial
+PALO	4	3/31/2006	NCV (Green )	(PIM) INADEQUATE DIESEL FIRE PUMP BATTERY SURVEILLANCE 	2006002	2006	Annual/Quarterly
+PALO	4	6/30/2009	NCV (Green )	(PIM) Inoperable Fire Barrier Door for Emergency Diesel Generator Train B 	2009003	2009	Annual/Quarterly
+PB	1	4/25/2003	NCV (Green )	"(PIM) Failure To Provide Cable Protection in Accordance With 10 CFR Part 50, Appendix R, Section III.G.2 "	2003009	2003	Triennial
+PB 	1	3/31/2008	NCV (Green )	(PIM) Failure to Identify and Document Fire Brigade Deficiencies 	2008002	2008	Annual/Quarterly
+PERR	3	11/2/2000	NCV (N/A )	(PIM) Failure to update procedures ONI-054 in a timely manner to include information used to alert operators about potential fire impacts upon RHR valves.	2000010	2000	Triennial
+PERR	3	11/2/2000	NCV (Green )	(PIM) Failure to address extended inoperability of the control room sub floor CO2 system. 	2000010	2000	Triennial
+PERR	3	12/15/2006	NCV (Green )	(PIM) Failure to provide full electrical isolation in the design of the post-fire safe shutdown control logic circuitry 	2006006	2006	Triennial
+PERR	3	12/15/2006	NCV (Green )	(PIM) Failure to evaluate the floor drain capacity in the division 1 and 2 cable spreading rooms 	2006006	2006	Triennial
+PERR	3	6/26/2009	NCV (Green )	(PIM) Failure to Maintain Procedures for Post Fire Operation of Control Room HVAC Fans and Control of Remote Shutdown Room Toolbox Inventory. 	2009007	2009	Triennial
+PERR	3	6/26/2009	NCV (Green )	(PIM) Failure to Assure That Systems Structures and Components Necessary to Achieve And Maintain Hot Shutdown Conditions Were Free of Fire Damage Without Repair Actions. 	2009007	2009	Triennial
+PERR	3	6/26/2009	NCV (Green )	(PIM) Failure to Provide Required Electrical Isolation for Post Fire Safe Shutdown Electrical Circuits 	2009007	2009	Triennial
+PERR	3	3/31/2003	Finding (Green )	(PIM) FAILURE TO PROMPTLY IDENTIFY AND CORRECT DEGRADED FIRE BARRIER 	2003003	2003	Annual/Quarterly
+PERR	3	9/30/2003	Finding (Green )	(PIM) FAILURE TO MAINTAIN FIRE BARRIERS 	2003006	2003	Annual/Quarterly
+PERR	3	12/31/2004	Finding (Green )	(PIM) FAILURE TO PROMPTLY IDENTIFY A DEGRADED FIRE BARRIER 	2004015	2004	Annual/Quarterly
+PERR	3	9/30/2005	NCV (Green )	(PIM) FAILURE TO EVALUATE INTERFERENCE WITH THE DESIGN RATTLE SPACE BETWEEN SAFETY CLASS BUILDINGS 	2005009	2005	Annual/Quarterly
+PERR	3	6/30/2007	NCV (Green )	(PIM) IMPROPER STORAGE OF COMBUSTIBLE MATERIAL 	2007003	2007	Annual/Quarterly
+PERR	3	9/30/2008	NCV (Green )	(PIM) Impaired Fire Barrier for Safety-Related Building 	2008004	2008	Annual/Quarterly
+PILG	1	8/18/2000	NCV (Green )	(PIM) Emergency Lighting Units were not installed to support manual operation 	2000004	2000	Triennial
+PILG	1	8/18/2000	NCV (Green )	(PIM) Emergency diesel generator watt-meter cables in the cable spreading room were neither protected nor isolated 	2000004	2000	Triennial
+PILG	1	7/31/2003	NCV (Green )	(PIM) Failure to Provide Instrumentation for Diagnosing and Verifying Manual Actions. 	2003005	2003	Triennial
+PILG	1	10/1/2009	NCV (Green )	(PIM) Failure to establish adequate procedures to prevent adverse impact due to spurious valve closure caused by fire damage.	2009007	2009	Triennial
+POIN	3	9/28/2001	Finding (N/A )	(PIM) HUMAN PERFORMANCE CROSS-CUTTING ISSUE DUE TO WEAKNESSES IN FIRE PROTECTION ENGINEERING AREA 	2001012	2001	Triennial
+POIN	3	9/28/2001	NCV (N/A )	(PIM) Emergency Lighting Inadequate in Façade Area	2001012	2001	Triennial
+POIN	3	9/28/2001	NCV (Green )	(PIM) Auxiliary Feedwater Pump Room Halon System Inadequate for Deep-Seated Fire Hazard	2001012	2001	Triennial
+POIN	3	9/28/2001	NCV (N/A )	(PIM) INSUFFICIENT APPENDIX R FUEL OIL SUPPLY 	2001012	2001	Triennial
+POIN	3	9/28/2001	NCV (Green )	(PIM) POSSIBLE SPURIOUS OPENING OF POWER-OPERATED RELIEF VALVE DURING FIRES 	2001012	2001	Triennial
+POIN	3	11/19/2004	NCV (Green )	(PIM) Failure to Ensure That a Safe Shutdown Procedure Directed Alignment of Instrumentation to a Direct Current Bus with a Battery Charger 	2004010	2004	Triennial
+POIN	3	7/13/2007	Finding (N/A )	(PIM) Failure to Meet Separation Requirements for Redundant Trains 	2007006	2007	Triennial
+POIN	3	7/13/2007	NonCited Violation (Green )	(PIM) Failure to Promptly Correct Non-Compliant Sprinkler Heads in the EDG Rooms 	2007006	2007	Triennial
+POIN	3	12/31/2003	NCV (Green )	(PIM) Inadequate Corrective Actions for Control of Transient Combustibles 	2003009	2003	Annual/Quarterly
+POIN	3	3/31/2004	NCV (Green )	(PIM) Sprinkler Head Locations Not in Accordance with Fire Code 	2004002	2004	Annual/Quarterly
+POIN	3	6/30/2004	NCV (Green )	(PIM) Loss of Transient Combustible Control in the Containment and Turbine Buildings During a Unit 1 Refueling Outage 	2004003	2004	Annual/Quarterly
+POIN	3	6/30/2008	NCV (Green )	(PIM) Failure to Address Sprinkler Head Obstructions in 'B' Train EDG Rooms 	2008003	2008	Annual/Quarterly
+PRAI	3	6/30/2004	NCV (Green )	(PIM) CYCLING OF SAFETY INJECTION PUMPS FOR FIRE SCENARIOS 	Open in TR 2004002 as URI and closed in an IR 2004005 as NCV.	2004	Triennial
+PRAI	3	3/5/2004	NCV (Green )	(PIM) TRANSIENT COMBUSTIBLES INVALIDATED EXEMPTION FOR LACK OF A FIRE SUPPRESSION SYSTEM 	2004002	2004	Triennial
+PRAI	3	8/18/2006	NCV (Green )	(PIM) No Fire-Rated Damper in Return Ventilation Duct 	2006009	2006	Triennial
+PRAI	3	8/18/2006	NCV (Green )	(PIM) Surveillance Did Not Include TS Requirements 	2006009	2006	Triennial
+PRAI	3	8/18/2006	NCV (Green )	(PIM) Lack of Smoke Detectors 	2006009	2006	Triennial
+PRAI	3	4/24/2009	Finding (Green )	(PIM) Failure to Ensure Fire door Would Consistently Close 	2009007	2009	Triennial
+PRAI	3	4/24/2009	Finding (N/A )	"(Non-PIM) Unanalyzed Condition Due to Manual Actions That Do Not Comply with 10 CFR 50, Appendix R "	2009007	2009	Triennial
+PRAI	3	4/24/2009	NCV (Green )	(PIM) Combustible Materials Present Within Safety Related Fire Area 	2009007	2009	Triennial
+PRAI	3	6/30/2005	NCV (Green )	(PIM) INADEQUATE CONTROL OF TRANSIENT COMBUSTIBLES 	2005004	2005	Annual/Quarterly
+QUAD	3	12/15/2000	NCV (Green )	(PIM) Failure to Seal Tops of Electrical Cabinets 	2000016	2000	Triennial
+QUAD	3	12/15/2000	NCV (Green )	(PIM) Failure to Provide Fire Stops in Cable Trays 	2000016	2000	Triennial
+QUAD	3	12/15/2000	NCV (N/A )	(PIM) Technical Errors in Appendix R Safe Shutdown Procedures 	2000016	2000	Triennial
+QUAD	3	6/29/2006	NCV (Green )	(PIM) SSMP Credited as a Redundant System for an Appendix R III.G.2 Fire Area 	2006002	2006	Triennial
+QUAD	3	6/29/2006	NCV (Green )	(PIM) Failure To Ensure One Redundant Train of RHRSW Free of Fire Damage 	2006002	2006	Triennial
+QUAD	3	6/29/2006	NCV (Green )	(PIM) Procedure Included Unapproved Fuse Repair for Appendix R 	2006002	2006	Triennial
+QUAD	3	6/29/2006	NCV (Green )	(PIM) Failure to Maintain Acceptable Pre-Fire Plans 	2006002	2006	Triennial
+QUAD	3	6/29/2006	NCV (Green )	(PIM) Failure to Have a Calculation for Hose Stations That Did Not Meet Code Requirements to Ensure Adequate Water Pressure and Flow Rate 	2006002	2006	Triennial
+QUAD	3	6/29/2006	NCV (Green )	(PIM) Failure to Meet NFPA Code Requirements for Class A Fire Extinguishers 	2006002	2006	Triennial
+QUAD	3	9/10/2009	NCV (Green )	(PIM) Failure to Evaluate Lack of Water Spray System Piping 	2009006	2009	Triennial
+QUAD	3	9/10/2009	NCV (Green )	(PIM) Failure to Provide Adequate Electrical Coordination for Control Circuit 	2009006	2009	Triennial
+QUAD	3	9/30/2000	NCV (Green )	(PIM) Degraded condition of fire door 128 	2000014	2000	Annual/Quarterly
+QUAD	3	3/31/2003	NCV (Green )	(PIM) FAILURE TO MAINTAIN ADEQUATE SPATIAL SEPARATION OF FLAMMABLES FROM THE DIESEL DRIVEN FIRE PUMPS 	2003003	2003	Annual/Quarterly
+RBS	4	2/13/2004	Finding (Green )	(PIM) Untimely corrective actions for degraded fire protection feature 	2004007	2004	Triennial
+RBS	4	2/13/2004	NCV (Green )	(PIM) Inadequate procedures for ventilation and smoke control associated with a fire 	2004007	2004	Triennial
+RBS 	4	11/11/2000	NCV (Green )	(PIM) Failure to adequately assess and conduct fire drills 	2000014	2000	Annual/Quarterly
+RBS 	4	3/31/2001	NCV (Green )	(PIM) Failure To Maintain A Fire Barrier Between Two Fire Areas Which Contain Redundant Safe Shutdown Equipment 	2000016	2001	Annual/Quarterly
+RBS 	4	8/1/2001	NCV (Green )	(PIM) Failure to maintain fire barrier requirements described in the plant fire hazards analysis. 	2001003	2001	Annual/Quarterly
+RBS 	4	6/30/2005	NCV (Green )	(PIM) Failure to inspect portable fire extinguishers within the required frequency 	2005003	2005	Annual/Quarterly
+ROB 	2	9/3/2004	NCV (Green )	(PIM) UNAPPROVED LOCAL MANUAL OPERATOR ACTIONS INSTEAD OF REQUIRED PHYSICAL PROTECTION OR SEPARATION OF CABLES TO PRECLUDE FIRE DAMAGE 	2004006	2004	Triennial
+ROB 	2	9/3/2004	NCV (Green )	(PIM) INOPERABLE FIRE BARRIER PENETRATION SEAL 	2004006	2004	Triennial
+SALM	1	2/7/2000	NCV (Green )	"(PIM) PSEG FAILED TO ENSURE THE CO2 SYSTEMS FOR THE UNITS 1 & 2 4,160 VAC ELECTRIC PENETRATION ROOMS REACHED AND MAINTAINED THE REQUIRED CO2 CONCENTRATION 50%"	1999010	2000	Triennial
+SALM	1	2/7/2000	NCV (Green )	(PIM) PSEG FAILED TO ENSURE THAT ONE TRAIN OF EQUIPMENT NECESSARY TO ACHIEVE HOT SHUTDOWN FORM THE EMERGENCY CONTROL STATION IS FREE OF FIRE DAMAGE 	1999010	2000	Triennial
+SALM	1	2/7/2000	NCV (Green )	(PIM) PSEG IDENTIFIED A CONDITION IN WHICH A FIRE COULD DAMAGE CABLES SUCH THAT THE POWER OPERATED RELIEF VALVE WOULD OPEN AND THE ASSOCIATED BLOCK VALVE COULD NOT BE CLOSED. 	1999010	2000	Triennial
+SALM	1	3/31/2006	NCV (Green )	(PIM) FAILURE TO COMPLY WITH STATION COLD SHUTDOWN REPAIR PROCEDURES 	2006007	2006	Triennial
+SALM	1	2/13/2009	NCV (Green )	(PIM) FAILURE TO EVALUATE SPURIOUS OPERATION OF SAFETY INJECTION SIGNAL 	2009006	2009	Triennial
+SALM	1	2/7/2000	Violation (White )	"(PIM) THE CARBON DIOXIDE TESTS FOR THE UNITS 1 & 2 4,160 VAC SWITCHGEAR ROOMS DID NOT REACH OR MAINTAIN THE REQUIRED CO2 CONCENTRATION OF 50%"	1999010	2000	Triennial
+SALM	1	11/10/2001	NCV (Green )	(PIM) PSEG NUCLEAR FAILED TO PROPERLY CONTROL TRANSIENT COMBUSTIBLE MATERIALS WITHIN THE UNIT 1 SPENT FUEL POOL 	2001010	2001	Annual/Quarterly
+SALM	1	9/30/2002	NCV (Green )	(PIM) PSEG NUCLEAR FAILED TO PROPERLY MAINTAIN ROOM ISOLATION BARRIERS AND IMPROPERLY IMPLEMENTED A MODIFICATION TO THE SWITCHGEAR PENETRATION AREA VENTILATION SYSTEM 	Opened in 2002007 and discussed in 2002009	2002	Annual/Quarterly
+SALM	1	12/30/2008	NCV (Green )	(PIM) IMPROPER CONTROL OF TRANSIENT COMBUSTIBLE MATERIAL 	2008005	2008	Annual/Quarterly
+SANO	4	10/7/2004	Finding (Green )	(PIM) INADEQUATE PROGRAM TO PROVIDE TRAINING FOR OPERATORS ASSIGNED DUTIES AS FIRE TECHNICAL ADVISORS 	2004008	2004	Triennial
+SANO	4	6/15/2007	NCV (Green )	(PIM) Fire Separation in Fire Area 2/3-AC-50-29 Did Not Comply With Deviation Request. 	2007008	2007	Triennial
+SANO	4	4/8/2000	NCV (Green )	(PIM) Failure to follow procedure for transient combustible material in battery rooms. 	2000007	2000	Annual/Quarterly
+SANO	4	6/2/2009	NCV (Green )	(PIM) Failure to Evaluate the Impact of Temporary Scaffolding on Installed Fire Protection Systems 	2009003	2009	Annual/Quarterly
+SEAB	1	7/29/2005	Finding (Green )	(PIM) Time Critical Operator Actions Not Included in the Safe Shutdown Analysis 	2005008	2005	Triennial
+SEQ 	2	3/29/2002	NCV (Green )	(PIM) INADEQUATE PROTECTION OF SAFE SHUTDOWN (SSD) COMPONENTS 	2002003	2002	Triennial
+SEQ 	2	3/29/2002	NCV (Green )	(PIM) INADEQUATE PROCEDURE GUIDANCE FOR PLANT FIRES 	2002003	2002	Triennial
+SEQ 	2	3/29/2002	NCV (Green )	(PIM) INADEQUATE EMERGENCY LIGHTING FOR REFUELING WATER STORAGE TANK (RWST) SUCTION VALVES 	2002003	2002	Triennial
+SEQ 	2	3/29/2002	NCV (Green )	(PIM) INADEQUATE PROTECTION FOR VOLUME CONTROL TANK (VCT) SUCTION VALVES 	2002003	2002	Triennial
+SEQ 	2	6/27/2008	NCV (Green )	(PIM) Sprinklers too far below Ceiling in Cable Spreading Room 	Open in TR 2005011 as a URI and closed in TR 2008006 as a NCV. 	2005	Triennial
+SEQ 	2	6/27/2008	NCV (Green )	(PIM) Fire Detectors in 480 V Shutdown Board Room 2B2 Not Installed According to NFPA Code 	2008006	2008	Triennial
+SEQ 	2	12/27/2003	NCV (Green )	(PIM) Failure to Implement Timely and Appropriate Fire Protection Compensatory Measures 	2003006	2003	Annual/Quarterly
+SEQ 	2	3/27/2004	NCV (Green )	(PIM) Inappropriate Change to the Approved Fire Protection Program 	2004002	2004	Annual/Quarterly
+SEQ 	2	3/31/2006	NCV (Green )	(PIM) Inadequate Procedure Results in Blocked Sprinkler Head Without Compensatory Actions 	2006002	2006	Annual/Quarterly
+SEQ 	2	3/31/2008	NCV (Green )	(PIM) Inadequate Tagging Procedure 	2008002	2008	Annual/Quarterly
+STL 	2	3/28/2003	NCV (Green )	"(PIM) Cables in Containment Fail to Meet 10 CFR 50, Appendix R, Criterion III.G.2 Requirements "	2003002	2003	Triennial
+STL 	2	10/31/2003	NCV (Green )	Failure to Evaluate the Combustible Loading of Oil-Filled Transformers in the FHA and the Effect on SSD Capability in the Event of a Fire in Unit 2 	Open in TR 2003002 as URI and closed in IR 2003013 as NCV. This NCV appeared under the quarterly findings list.	2003	Triennial
+STL 	2	10/20/2006	NCV (Green )	(PIM) Failure to Test the Sound Powered Phones in Accordance With Surveillance Procedures 	2006010	2006	Triennial
+STL 	2	4/30/2009	NCV (Green )	(PIM) Failure to Correct Conditions Adverse to Quality 	2009007	2009	Triennial
+STL 	2	6/30/2001	NCV (Green )	(PIM) Inoperable Cable Spreading Room Smoke Detector 	2001003. The finding was obtained in a IR but appeared under the triennial website search	2001	Annual/Quarterly
+STL 	2	6/30/2001	NCV (Green )	(PIM) Fire Detection Electrical Monitoring System Not in Accordance with Requirements 	2001003. The finding was obtained in an IR but appeared under the triennial website search.	2001	Annual/Quarterly
+STL 	2	6/30/2001	NCV (Green )	(PIM) Inadequate Testing of Sprinkler System 	2001003. The finding was obtained in a IR but appeared under the triennial website search	2001	Annual/Quarterly
+STL 	2	9/29/2001	NCV (Green )	(PIM) Failure to Maintain Control of Fire Alarm Computer Design Features Required by the NRC Approved Fire Protection Program 	2001004	2001	Annual/Quarterly
+STL 	2	9/29/2001	NCV (Green )	(PIM) Inadequate Implementation of Interim Corrective Actions to Compensate for a Degraded Fire Alarm Computer 	2001004	2001	Annual/Quarterly
+STL 	2	9/30/2008	NCV (Green )	(PIM) Failure to Identify and Correct an Open and Degraded Missile Shield Door 	2008004	2008	Annual/Quarterly
+STP 	4	7/7/2004	Finding (Green )	(PIM) Fire safe shutdown analysis did not account for the impact of reactor coolant seal leakage. 	IR 2004003.  This finding was found when they were doing the review of two URIs of TR 2002003 but it is not consider part of those 2 URIs.	2004	Triennial
+STP 	4	7/14/2005	NCV (Green )	(PIM) Failure to ensure redundant safe shutdown systems located in the same fire area are free of fire damage 	2005006	2005	Triennial
+STP 	4	4/7/2006	NCV (Green )	(Non-PIM) Hot Sticking Motor-operated Valves 	Open in TR 2005006 as URI and closed in IR 2006002 as NCV. This NCV appeared under the annual/quarterly findings list.	2005	Triennial
+STP 	4	4/8/2006	NCV (Green )	(Non-PIM) Thermal Hydraulic Analysis Inconsistencies 	Open in TR 2005006 as URI and closed in IR 2006002 as NCV. This NCV appeared under the annual/quarterly findings list.	2005	Triennial
+STP 	4	7/4/2009	NCV (Green )	(PIM) Failure to Ensure a Reliable Fire Suppression Water Supply System 	Open in TR 2008008 as URI and closed as NCV in IR 2009003.	2008	Triennial
+STP 	4	7/4/2009	NCV (Green )	(PIM) Potential Loss of Centrifugal Charging Pump Suction Due to Fire Damage 	Open in TR 2008008 as URI and closed as NCV in IR 2009003.	2008	Triennial
+SUM 	2	11/28/2001	NCV (Green )	(PIM) Emergency Lighting Installation Deficiencies for Performing Alternative Shutdown Actions 	2001009	2001	Triennial
+SUM 	2	8/26/2005	NCV (Green )	(PIM) Failure to Prevent Spurious Operation of Charging Pump Suction From Volume Control Tank Valves LCV-115C and LCV-115E 	Open in TR 2004007as URI and closed in IR 2005009 as NCV. 	2004	Triennial
+SUM 	2	8/26/2005	NCV (Green )	(PIM) Fire Emergency Procedure Implementation Not Timely To Maintain Pressurizer Level In Indicating Range 	Open in TR 2004007as URI and closed in IR 2005009 as NCV.	2004	Triennial
+SUM 	2	8/26/2005	NCV (Green )	(PIM) Post-Fire Operator Actions For Reactor Coolant Pump Seal Cooling Were Not Adequate 	Open in TR 2004007as URI and closed in IR 2005009 as NCV.	2004	Triennial
+SUM 	2	6/25/2004	NCV (Green )	(PIM) Failure to Provide Portable Smoke Ejectors Capable of Operation During a Loss of Offsite Electrical Power 	2004007	2004	Triennial
+SUR	2	2/2/2004	Violation (White )	(PIM) Alternative Shutdown Capability and Response Procedures Not Adequate to Ensure Safe Shutdown of Unit 1 and 2	"Open in TR 2003007as URI; discussed in the inspection report 2003008 as an Apparent Violation; declared a white violation in the report 2004008, and closed in inspection report 2004011."	2003	Triennial
+SUR 	2	1/7/2004	NCV (Green )	(PIM) Fire Response Procedures 1-FCA-3.00 And 0-FCA-14.00 Not Adequate To Ensure Safe Shutdown Of Unit 1. 	Open in TR 2003007 as URI and closed in the inspection report 2003008 as NCV.  The 2003008 inspection report was an in-office examination of 3 open URIs.	2003	Triennial
+SUR 	2	1/7/2004	NCV (Green )	(PIM) Alternate Shutdown Panel Ventilation System Not Independent From Impacts Of A Main Control Room Fire. 	Open in TR 2003007 as URI and closed in the inspection report 2003008 as NCV.  The 2003008 inspection report was an in-office examination of 3 open URIs.	2003	Triennial
+SUR 	2	2/14/2003	NCV (Green )	(PIM) Failure to Adequately Test Diesel Driven Fire Pump Automatic Start Features 	2003007	2003	Triennial
+SUR 	2	2/14/2003	NCV (Green )	(PIM) Inadequate Control of Diesel Driven Fire Pump Fuel Oil Isolation Valve 	2003007	2003	Triennial
+SUR 	2	2/14/2003	NCV (Green )	(Non-PIM) Emergency Diesel Generator No. 3 Bus-tie Breakers Control Circuit Design Deficiency 	Open in TR 2003007 as URI and closed in 200304 as NCV. This NCV did not appear in the triennial findings neither in the annual/quarterly findings.  I change the denomination from URI to NCV.	2003	Triennial
+SUR 	2	12/31/2007	NCV (Green )	(PIM) Carbon Dioxide Suppression System Degraded in Two Fire Areas in Unit 1 and Three Fire Areas in Unit 2 	Open in TR 2006009 as URI and closed in IR 2007005 as NCV.	2006	Triennial
+SUR 	2	6/30/2006	NCV (Green )	(PIM) Removal of Damper Motor Operators From CO2 System in Normal Switchgear Rooms 	2006009	2006	Triennial
+SUR 	2	6/30/2006	NCV (Green )	(PIM) Inadequate Procedure for Post-Fire Safe Shutdown During a Fire in Mechanical Equipment Room 3 	2006009	2006	Triennial
+SUR 	2	6/26/2009	NCV (Green )	(PIM) Failure to Establish Maintenance for Backup Battery for the Halon 1301 System in ESGRs 	2009007	2009	Triennial
+SUR 	2	4/5/2003	NCV (Green )	(PIM) Failure to Properly Evaluate and Approve the Storage of Flammable Materials in the Vicinity of Safety-related Equipment 	2003002	2003	Annual/Quarterly
+SUR 	2	12/31/2007	NCV (Green )	(PIM) Temporary Fire Suppression Capacity Not Equivalent to Unit 1 Containment Fire Hose Stations 	2007005	2007	Annual/Quarterly
+SUR 	2	9/30/2009	NCV (Green )	(PIM) Inadequate Compensatory Measures for the Impairment of Fire Detection Systems 	2009004	2009	Annual/Quarterly
+SUSQ	1	8/30/2002	NCV (Green )	(PIM) Inadequate Fire Barrier Surveillance 	2002008	2002	Triennial
+SUSQ	1	8/30/2002	NCV (Green )	(PIM) Inadequate UCSR Under-Floor CO2 Suppression System 	2002008	2002	Triennial
+SUSQ	1	8/30/2002	NCV (Green )	(PIM) Inadequate UCSR and LCSR Pre-Action Sprinkler System 	2002008	2002	Triennial
+SUSQ	1	12/2/2005	Finding (Green )	(PIM) Fire Brigade Drill Program Not Consistent With Regulatory Guidance and Industry Standards 	2005009	2005	Triennial
+SUSQ	1	11/7/2008	NCV (Green )	(PIM) Failure to Establish Adequate Procedures for Operation of the Plant Following Evacuation of the Control Room due to a Fire 	2008009	2008	Triennial
+SUSQ	1	9/30/2009	NCV (Green )	(PIM) Failure to Implement and Maintain the Fire Protection Program with Respect to the use and Storage of Combustibles in the Control Structure 	2009004	2009	Annual/Quarterly
+SUSQ	1	12/31/2009	NCV (Green )	(PIM) Insufficient Fire Drill Oversight to Ensure Fire Brigade Performance Deficiencies are Identified 	2009005	2009	Annual/Quarterly
+TMI 	1	10/25/2002	NCV (Green )	(PIM) Inadequate Control of Transient Combustibles 	2002011	2002	Triennial
+TMI 	1	12/16/2005	NCV (Green )	(PIM) Failure to Implement Hot Work Procedural Requirements 	2005012	2005	Triennial
+TMI 	1	12/31/2009	NCV (Green )	(PIM) Potential CO2 Migration Outside the Relay Room Fire Area 	Open in TR 2008009 as URI and closed in IR 2009005 as NCV.	2008	Triennial
+TMI 	1	9/12/2008	NCV (Green )	(PIM) Inappropriate Use of Elevators by Fire Brigade Members 	2008009	2008	Triennial
+TMI 	1	12/30/2000	NCV (Green )	(PIM) Failure to Implement Compensatory Measures for an Inoperable Battery Room Fire Door 	2000008	2000	Annual/Quarterly
+TMI 	1	3/31/2005	NCV (Green )	(PIM) Failure to Maintain Fire Barriers for the 'A' and 'B' Makeup Pump Rooms 	2005002	2005	Annual/Quarterly
+TP 	2	2/13/2004	NCV (Green )	(PIM) Failure to Install Full Area Fire Detection and Fixed Suppression Systems in the Unit 3 and 4 Mechanical Equipment Room 	2004007	2004	Triennial
+TP 	2	12/31/2007	NCV (Green )	(PIM) Failure to implement the fire protection program: unapproved transient combustibles in the cable spreading room 	2007005	2007	Annual/Quarterly
+TP 	2	6/30/2008	Finding (Green )	(PIM) Maintenance causes smoke and fumes to enter the control room causing fire alarms. 	2008003	2008	Annual/Quarterly
+VOG 	2	8/26/2004	NCV (Green )	(PIM) Inadequate Fire Protection Pre-fire Plan to Ensure Adequate Environmental Conditions for Operators to Access Required Equipment 	2004007	2004	Triennial
+VOG 	2	11/30/2007	NCV (Green )	(PIM) Failure to Adequately Control Transient Combustibles 	2007007	2007	Triennial
+VOG 	2	11/30/2007	NCV (Green )	(PIM) Safe Shutdown Procedure 18068-2 Not Consistent With Analysis 	2007007	2007	Triennial
+VOG 	2	11/30/2007	NCV (Green )	(PIM) Emergency Lighting Units Not Installed as Required by the Fire Protection Program 	2007007	2007	Triennial
+VY 	1	12/17/2004	NCV (Green )	(PIM) Failure to Provide Isolation of Normal Control Power Source for RCIC Steam Supply Line Isolation Valve 	2004010	2004	Triennial
+VY 	1	7/1/2000	NCV (Green )	(PIM) Violation of FSAR Cable Separation Criteria 	2000005	2000	Annual/Quarterly
+VY 	1	12/30/2000	NCV (N/A )	(PIM) Failure to use self-contained breathing apparatus during fire brigade drills 	2000010	2000	Annual/Quarterly
+VY 	1	6/28/2003	NCV (Green )	(PIM) Failure to Take Effective Corrective Actions Regarding Safety-Related Electrical Cable Separation 	2003005	2003	Annual/Quarterly
+WAT 	4	9/29/2000	NCV (Green )	"Failure to Isolate Neutral Wire during Transfer to the Alternative Shutdown Panel per 10 CFR Part 50 Appendix R, Section III.L.3"	Open in TR 2000007 as an URI and closed in IR 2004005 as NCV. This NCV did not appear in any findings list.	2000	Triennial
+WAT 	4	9/28/2000	NCV (Green )	(PIM) Failure to demonstrate the ratings of 3-hour fire barriers. 	2000007	2000	Triennial
+WAT 	4	9/27/2000	NCV (Green )	(PIM) Failure to initiate condition reports for emergency lighting battery test failures. 	2000007	2000	Triennial
+WAT 	4	9/18/2000	NCV (Green )	(PIM) Failure to maintain in effect a 1-hour rated fire barrier between redundant trains of equipment necessary to achieve and maintain safe shutdown. 	2000007	2000	Triennial
+WAT 	4	8/19/2003	NCV (Green )	"(PIM) Failure to test certain emergency diesel generator ""B"" mini-sequencer contacts. "	2003011	2003	Triennial
+WAT 	4	8/19/2003	NCV (Green )	(PIM) Inadequate emergency lighting for supporting operator actions. 	2003011	2003	Triennial
+WAT 	4	8/19/2003	NCV (Green )	(PIM) Inadequate corrective actions for deficiencies associated with the emergency lighting system. 	2003011	2003	Triennial
+WAT 	4	5/22/2009	Finding (N/A )	"(PIM) Failure to provide area wide sprinkler coverage as required in an Appendix R, Section III.G.2.c fire area. "	2009006	2009	Triennial
+WAT 	4	5/22/2009	Finding (N/A )	(PIM) Failure to ensure post-fire safe shutdown valves could be operated. 	2009006	2009	Triennial
+WAT 	4	5/22/2009	NCV (Green )	(PIM) Failure to identify conditions adverse to fire protection. 	2009006	2009	Triennial
+WAT 	4	7/1/2000	NCV (Green )	(PIM) Failure to ensure fire extinguishers remained within their current hydrostatic test dates 	2000005	2000	Annual/Quarterly
+WAT 	4	12/31/2007	NCV (Green )	(PIM) Failure to Follow Procedure Review Process 	2007005	2007	Annual/Quarterly
+WB 	2	4/16/2004	NCV (Green )	(PIM) Inadequate Evaluation Process for Design Changes Which Could Affect Safe Shutdown in the Event of a Fire. 	2004006	2004	Triennial
+WB 	2	12/31/2008	NCV (Green )	(PIM) Carbon Dioxide System in Fire Area 48 Failed to Meet Design Criterion 	Open in TR 2007007 as URI and closed in IR 2008005 as NCV.	2007	Triennial
+WB 	2	12/31/2007	NCV (Green )	(PIM) Fire Protection Program Did Not Demonstrate Eight-Hour Emergency Light Unit Battery Capacity 	Open in TR 2007007 as URI and closed in IR 2007005 as NCV.	2007	Triennial
+WB 	2	6/15/2007	NCV (Green )	(PIM) Safe Shutdown Procedure for Portions of FA 8 Not Consistent With Underlying Analysis 	2007007	2007	Triennial
+WB 	2	6/15/2007	NCV (Green )	(PIM) Feeder Cables for Vital Inverter not Protected with One-Hour Fire Barrier 	2007007	2007	Triennial
+WB 	2	6/15/2007	NCV (Green )	(PIM) Failure to Provide Emergency Light at Location of Local Operator Action Important to Safe Shutdown 	2007007	2007	Triennial
+WB 	2	6/15/2002	NCV (Green )	(PIM) FAILURE TO CONTROL TRANSIENT COMBUSTIBLES 	2002002	2002	Annual/Quarterly
+WB 	2	12/27/2003	NCV (Green )	(PIM) Inadequate Operability Evaluation Results in Exceeding the OR Time Limit for Returning Electric Driven Fire Pumps to Operable Status 	2003005	2003	Annual/Quarterly
+WB 	2	12/27/2003	NCV (Green )	(PIM) Seal Not Installed in a Cable Conduit Penetrating a Fire Barrier 	2003005	2003	Annual/Quarterly
+WB 	2	9/25/2004	NCV (Green )	(PIM) Failure to Identify Unsatisfactory Performance of a Fire Brigade Crew 	2004004	2004	Annual/Quarterly
+WB 	2	10/31/2006	NCV (Green )	(PIM) Fire Header Inoperable Due to Failure to Follow Procedure 	2006004	2006	Annual/Quarterly
+WC 	4	10/11/2002	NCV (Green )	(PIM) Inadequate Alternative Shutdown Procedure 	2002008	2002	Triennial
+WC 	4	10/24/2008	NCV (Green )	(PIM) Failure to Evaluate Changes to the Approved Fire Protection Program 	Open in TR 2005008 as URI and closed in TR 2008010 as NCV.	2005	Triennial
+WC 	4	12/29/2005	NCV (Green )	(PIM) Failure to Ensure Redundant Safe Shutdown Systems Located in the Same Fire Area Are Free of Fire Damage 	2005008 The ROP website had it as an apparent violation but the report stated that is a green NCV. 	2005	Triennial
+WC 	4	12/29/2005	NCV (Green )	(PIM) Failure to Provide Adequate Post-Fire Shutdown Procedures 	2005008	2005	Triennial
+WC 	4	12/29//2009	NCV (Green )	(PIM) Operator Actions Disable Circuit Breaker Coordination and Could Initiate Secondary Fires	"Open in TR 2008010 as URI, and closed in IR 2009005 as NCV."	2008	Triennial
+WC 	4	9/30/2009	NCV (SL-IV )	(PIM) Changes to the Approved Fire Protection Program Without Prior Staff Approval 	Open in TR 2008010 as URI and closed in IR 2009004 as NCV.	2008	Triennial
+WC 	4	10/24/2008	NCV (Green )	(PIM) Failure to Ensure a Fire Pump Would Automatically Start for One Fire Area 	2008010	2008	Triennial
+WC 	4	10/24/2008	NCV (Green )	(PIM) Operator Actions Affect the Ability to Operate Post Fire Safe Shutdown Equipment 	2008010	2008	Triennial
+WC 	4	3/31/2001	NCV (Green )	(PIM) Three hour rated fire door partially open between vital switchgear rooms 	2000011	2000	Annual/Quarterly
+WC 	4	3/23/2002	NCV (N/A )	(PIM) Fire Protection 	2001006	2001	Annual/Quarterly
+WC 	4	4/7/2006	NCV (Green )	(PIM) Failure to provide adequate fire detection in the diesel generator rooms 	2006002	2006	Annual/Quarterly
+WC 	4	4/7/2007	NCV (Green )	(PIM) Failure to implement fire protection impairment control permit requirements and compensatory measures 	2007002	2007	Annual/Quarterly
+WC 	4	10/6/2007	NCV (Green )	(PIM) Failure to implement transient combustible material control permit requirements 	2007004	2007	Annual/Quarterly
+WC 	4	4/7/2008	NCV (Green )	(PIM) Failure to implement fire protection impairment control permit requirements and compensatory measures 	2008002	2008	Annual/Quarterly
+WC 	4	6/28/2008	NCV (Green )	(PIM) Failure to implement transient combustible control permit requirements for a propane tank 	2008003	2008	Annual/Quarterly
+WC 	4	3/31/2009	NCV (Green )	(PIM) Degraded fire barrier for auxiliary feedwater 	2009002	2009	Annual/Quarterly
+WC 	4	3/31/2009	NCV (Green )	(PIM) Failure to implement foreign material exclusion control procedure for spent fuel pool 	2009002	2009	Annual/Quarterly
+WC 	4	8/12/2009	NCV (Green )	(PIM) Failure to Log Foreign Material in Spent Fuel Pool After Extent of Condition Evaluation 	2009004	2009	Annual/Quarterly
+WNP 	4	5/5/2000	NCV (Green )	(PIM) Detectors found not installed in accordance with the fire code. 	2000007	2000	Triennial
+WNP 	4	5/5/2000	NCV (Green )	(PIM) A degraded 1-hour rated Darmatt raceway fire barrier found with an unsealed annular gap through the post-fire safe shutdown barrier envelope. 	2000007	2000	Triennial
+WNP 	4	4/6/2004	NCV (Green )	(PIM) Failure to have adequate procedures in effect for alternative shutdown 	Open in TR 2003002 as URI and closed in IR 2004002 as NCV.	2003	Triennial
+WNP 	4	4/6/2004	NCV (Green )	(PIM) Inadequate corrective action for a condition affecting safe shutdown 	Open in TR 2003002 as URI and closed in IR 2004002 as NCV.	2003	Triennial
+WNP 	4	4/22/2003	NCV (Green )	(PIM) Unapproved use of manual actions to protect safe shutdown equipment from the effects of a fire 	2003002	2003	Triennial
+WNP 	4	9/30/2008	NCV (Green )	(PIM) Failure to assure that Division 2 instrument sensing lines remained free of fire damage 	Open in TR 2006008 as URI and closed in IR 2008002 as NCV.	2006	Triennial
+WNP 	4	7/13/2006	NCV (Green )	(PIM) Failure to Ensure Redundant Safe Shutdown Systems Located In the Same Fire Area Are Free of Fire Damage 	2006008	2006	Triennial
+WNP 	4	3/31/2001	NCV (SL-IV )	(PIM) Failure to obtain NRC approval prior to changing fire protection program (Closes URI 0012-02) 	2001002	2001	Annual/Quarterly
+WNP 	4	12/28/2002	NCV (Green )	(PIM) Man-lift inappropriately stored in control room 	2002004	2002	Annual/Quarterly
+WNP 	4	12/31/2007	NCV (SL-IV )	(PIM) Willful Failure to Complete Fire Watch Rounds and Falsification of Logs (EA 07-282) 	2007005	2007	Annual/Quarterly
