@@ -1,4 +1,4 @@
-# Nuclear Power Plant Safety: Efficiency vs. Risk Analysis
+# Nuclear Power Plant Safety
 
 ## 1. Project Intent
 **Research Question:** *Does high power output correlate with higher safety risk in nuclear power plants?*
