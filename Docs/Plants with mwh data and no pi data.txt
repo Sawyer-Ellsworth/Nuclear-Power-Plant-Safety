@@ -1,0 +1,12 @@
+Plants with mwh data and no pi data
+[ ] San Onofre 2
+[ ] San Onofre 3
+[ ] Crystal River 3
+[ ] Pilgrim 1
+[ ] Fort Calhoun
+[ ] Oyster Creek 1
+[ ] Indian Point 2
+[ ] Indian Point 3
+[ ] Three Mile Island 1
+[ ] Vermont Yankee 1
+[ ] Kewaunee
