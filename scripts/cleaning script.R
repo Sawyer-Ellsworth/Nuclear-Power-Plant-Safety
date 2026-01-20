@@ -1,6 +1,7 @@
 library(tidyverse)
 library(readxl)
 library(janitor)
+library(googlesheets4)
 
 #2007 to 2009
 fire_inspection <- read_xls(
@@ -67,6 +68,13 @@ nuke_master <- bind_rows(nuke_07_fin, nuke_08_fin, nuke_09_fin)
 nuke_master |>
   write_csv("data/processed/nuke_master.csv")
 
+#Performance Indicator Google Sheet
+pi <- read_sheet(
+  "https://docs.google.com/spreadsheets/d/1Rhy4jn8CCNvngwP8cGZ5I-aD06hOhZex-zHYYf3Jsmc/edit?usp=sharing"
+) |>
+  clean_names()
+
+pi_count <- count(pi, reactor_name)
 #unused data
 
 # only 2023
