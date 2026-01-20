@@ -69,12 +69,20 @@ nuke_master |>
   write_csv("data/processed/nuke_master.csv")
 
 #Performance Indicator Google Sheet
-pi <- read_sheet(
+pi1 <- read_sheet(
   "https://docs.google.com/spreadsheets/d/1Rhy4jn8CCNvngwP8cGZ5I-aD06hOhZex-zHYYf3Jsmc/edit?usp=sharing"
 ) |>
   clean_names()
 
-pi_count <- count(pi, reactor_name)
+pi2 <- read_sheet(
+  "https://docs.google.com/spreadsheets/d/14WOAJtgvF2DW6uzseJR71B1M4pbrvbo8DNy38ptczUU/edit?usp=sharing"
+) |>
+  clean_names()
+
+pi_master <- bind_rows(pi1, pi2)
+
+pi_count <- count(pi_master, )
+
 #unused data
 
 # only 2023
