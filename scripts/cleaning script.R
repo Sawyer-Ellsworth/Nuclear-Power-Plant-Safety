@@ -79,9 +79,18 @@ pi2 <- read_sheet(
 ) |>
   clean_names()
 
-pi_master <- bind_rows(pi1, pi2)
+pi3 <- read_sheet(
+  "https://docs.google.com/spreadsheets/d/1VHXXQ95ZITMHrQA98hko2bLJVAP7GPncidLEVVpALig/edit?usp=sharing"
+) |>
+  clean_names()
 
-pi_count <- count(pi_master, )
+pi4 <- read_sheet(
+  "https://docs.google.com/spreadsheets/d/1AXOhRuurskFlALTSA8fSKqJMR1ul8SHlUk_xJCln2Tk/edit?usp=sharing"
+) |>
+  clean_names()
+
+pi_master <- bind_rows(pi1, pi2, pi3, pi4) |>
+  arrange(reactor_name)
 
 #unused data
 
