@@ -43,10 +43,12 @@ Nuclear_Metrics_fin <- Nuclear_Metrics |>
   )) |>
   mutate(across(where(is.numeric) & !power_generated, ~ as.vector(scale(.)))) |>
   mutate(
-    overall_safety_score = rowMeans(
-      pick(!c(state_of_location, date, power_generated)),
-      na.rm = TRUE
-    )
+    overall_safety_score = -1 *
+      rowMeans(
+        # *-1 to make positive score mean safer
+        pick(!c(state_of_location, date, power_generated)),
+        na.rm = TRUE
+      ),
   )
 
 Results <- Nuclear_Metrics_fin |>

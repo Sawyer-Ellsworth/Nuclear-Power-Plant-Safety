@@ -1,0 +1,188 @@
+library(shiny)
+library(bslib)
+
+library(munsell) # shinylive does not run without this
+
+library(dplyr)
+library(ggplot2) #tidyverse packages to make shiny run smoother
+library(forcats)
+
+#Used to Uploaded directly from github as local csvs don't work with shinylive
+url <- "https://raw.githubusercontent.com/Sawyer-Ellsworth/Nuclear-Power-Plant-Safety/refs/heads/main/data/processed/Nuclear_Metrics_Scores.csv"
+Results <- read.csv(url)
+Results$date <- as.character(Results$date)
+
+ui <- page_fluid(
+  titlePanel("Nuclear Site Metrics"),
+
+  layout_sidebar(
+    sidebar = sidebar(
+      # Select date for sorting
+      selectInput( 
+        inputId = "date_select",
+        label = "Select Date:",
+        choices = unique(Results$date),
+        selected = "2007-01-01"
+      ),
+      # Select statistic to plot for ggplot
+      radioButtons( 
+        inputId = "stat",
+        label = "Select Statistic to Plot:",
+        choices = c(
+          "Overall Safety Score" = "overall_safety_score",
+          "Power Generated" = "power_generated",
+          "Power Generated vs Safety Score" = "power_vs_safety"
+        ),
+        selected = "overall_safety_score"
+      ),
+      selectInput( # Select variable to sort by
+        inputId = "sort_by",
+        label = "Sort Graphs By:",
+        choices = c(
+          "Site Name" = "state_of_location",
+          "Overall Safety Score" = "overall_safety_score",
+          "Power Generated" = "power_generated"
+        ),
+        selected = "state_of_location"
+      ),
+      # Select sort order
+      radioButtons(
+        inputId = "sort_order",
+        label = "Sort Order:",
+        choices = c(
+          "Ascending (A-Z / Low-High)" = "asc",
+          "Descending (Z-A / High-Low)" = "desc"
+        ),
+        selected = "asc"
+      )
+    ),
+
+    # Plot area
+    card(
+      card_header("Metric Visualization"),
+      plotOutput("safety_plot", height = "800px")
+    )
+  )
+)
+
+server <- function(input, output, session) {
+
+  sorted_data <- reactive({
+    req(input$date_select) 
+
+    
+    df <- Results |> 
+      filter(date == input$date_select)
+    
+    #user selects descending in sort order
+    is_desc <- input$sort_order == "desc" 
+
+    #user selects sort variable Site Name
+    if (input$sort_by == "state_of_location") {
+      if (is_desc) {
+        # Descending 
+        df <- df |>
+          mutate(
+            state_of_location = factor(
+              state_of_location,
+              levels = sort(unique(state_of_location))
+            )
+          )
+      } else {
+        # Ascending 
+        df <- df |>
+          mutate(
+            state_of_location = factor(
+              state_of_location,
+              levels = sort(unique(state_of_location), decreasing = TRUE)
+            )
+          )
+      }
+
+    } else {
+      # Numeric Sort (Power or Safety)
+      if (is_desc) {
+        # Descending
+        df <- df |>
+          mutate(
+            state_of_location = fct_reorder(
+              state_of_location,
+              .data[[input$sort_by]],
+              .fun = sum
+            )
+          )
+      } else {
+        # Ascending
+        df <- df |>
+          mutate(
+            state_of_location = fct_reorder(
+              state_of_location,
+              .data[[input$sort_by]],
+              .desc = TRUE,
+              .fun = sum
+            )
+          )
+      }
+    }
+  }
+  )
+
+  output$safety_plot <- renderPlot({
+    # Use the pre-sorted data
+    df <- sorted_data()
+
+    # Pretty title generator
+    label_map <- c(
+      "overall_safety_score" = "Overall Safety Score",
+      "power_generated" = "Power Generated"
+    )
+
+    if (input$stat == "power_vs_safety") {
+      # Power vs Safety plot
+      ggplot(df, aes(
+        x = state_of_location,
+        y = overall_safety_score,
+        fill = power_generated
+      )) +
+        geom_col() +
+        coord_flip() +
+        scale_fill_gradient(
+          low = "green",
+          high = "red",
+          name = "Power Generated (MWh)"
+        ) +
+        labs(
+          title = paste(
+            "Safety Score (Bar) colored by Power (Fill) -",
+            input$date_select
+          ),
+          subtitle = paste("Sorted by:", input$sort_by),
+          x = "Site / State",
+          y = "Overall Safety Score"
+        ) +
+        theme_minimal(base_size = 12) #fix to get ideal size
+    } else {
+
+      #Takes variable in label map to make better labels
+      y_label <- if (!is.null(label_map[input$stat])) {
+        label_map[input$stat]
+      } else {
+        tools::toTitleCase(gsub("_", " ", input$stat))
+      }
+      
+      # Just Power or Safety graphs
+      ggplot(df, aes(x = state_of_location, y = .data[[input$stat]])) +
+        geom_col(fill = "steelblue") +
+        coord_flip() +
+        labs(
+          title = paste(y_label, "for", input$date_select),
+          subtitle = paste("Sorted by:", input$sort_by),
+          x = "Site / State",
+          y = y_label
+        ) +
+        theme_minimal(base_size = 10)
+    }
+  })
+}
+
+shinyApp(ui, server)

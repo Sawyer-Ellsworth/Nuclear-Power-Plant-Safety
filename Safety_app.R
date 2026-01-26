@@ -25,10 +25,8 @@ ui <- page_fluid(
           "Power Generated" = "power_generated",
           "Power Generated vs Safety Score" = "power_vs_safety"
         ),
-        # FIX: Value must match one of the choice values, not the label
         selected = "overall_safety_score"
       ),
-      hr(), # Visual separator
       selectInput(
         inputId = "sort_by",
         label = "Sort Graphs By:",
