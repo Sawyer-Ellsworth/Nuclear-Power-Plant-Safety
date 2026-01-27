@@ -63,7 +63,7 @@ Safety metrics data was in pdf format so it had to be extracted to csv format
  
  - Extract tables from PDFs using NotebookLM using custom prompts in dataset function
 
- - 4 different "Notebooks" were used that must be joined with rowbind()
+ - 4 different "Notebooks" were used that must be joined bind_rows()
 
  - Final dataset was created with all 4 safety metrics datasets plus the power generation dataset
 

@@ -2,22 +2,6 @@ library(tidyverse)
 library(readxl)
 library(janitor)
 
-materials_licensing <- read_csv("data/processed/mat_licens_clean.csv")
-materials_licensing |>
-  mutate(just_year = year(received)) |>
-  mutate(just_year = as.factor(just_year)) |>
-  count(just_year)
-
-fire_inspection <- read_csv("data/processed/fire_clean.csv")
-fire_inspection |>
-  count(year_first_observed)
-
-fire_inspection |>
-  filter(.by = "site")
-
-materials_licensing |>
-  count()
-
 power <- read_csv("data/processed/nuke_master.csv")
 colnames(power)
 
@@ -56,3 +40,32 @@ Results <- Nuclear_Metrics_fin |>
 
 Results |>
   write_csv("data/processed/Nuclear_Metrics_Scores.csv")
+
+safe_num <- function(x) as.numeric(gsub(",", "", as.character(x)))
+
+cor_by_month_year <- Results |>
+  mutate(
+    date = as.Date(date),
+    power_generated = safe_num(power_generated),
+    overall_safety_score = as.numeric(overall_safety_score)
+  ) |>
+  group_by(date) |>
+  summarize(
+    n = sum(complete.cases(power_generated, overall_safety_score)),
+    correlation = if (n >= 2) {
+      cor(power_generated, overall_safety_score, use = "complete.obs")
+    } else {
+      NA_real_
+    },
+    direction = case_when(
+      is.na(correlation) ~ NA_character_,
+      correlation > 0 ~ "positive",
+      correlation < 0 ~ "negative",
+      TRUE ~ "zero"
+    ),
+    .groups = "drop"
+  ) |>
+  arrange(date)
+
+cor_by_month_year |>
+  write_csv("data/processed/Safety_Power_Correlation_By_Month_Year.csv")
