@@ -1,106 +1,108 @@
----
-title: "Nuclear Site Metrics"
-author: "Sawyer Ellsworth"
-format:
-  revealjs:
-    theme: solarized
-    margin: 0.1
-    slide-level: 2
-    transition: fade
-    incremental: false
-date: 2026-01-27
-filters:
-  - shinylive
-embed-resources: false
----
-
-## Project Overview
-
-**Objective:** 
-
-Analyze the relationship between power generation and safety metrics from 2007 to 2009
-
-
-**Questions** 
-
- - Does higher power output correlate with higher safety scores? 
-
- - Which specific plants maximize both safety and efficiency?
-
-## Finding data
-
-::::: columns
-::: column
-**Power generation**
-
-***U.S. Energy Information Administration (EIA)***
-
-- Annual datasets
-- Clean, structured format
-- Output in MWh per plant
-
-:::
-
-::: column
-**Safety metrics**
-
-***Nuclear Regulatory Commission (NRC)***
-
-- Individual PDF per site
-- Unstructured format
-- Incidents: scrams, leaks, etc.
-
-:::
-:::::
-
-## Data Processing
-
-**The Challenge**
-
-Safety metrics data was in pdf format so it had to be extracted to csv format
-
-**The Solution**
- 
- - Extract tables from PDFs using NotebookLM using custom prompts in dataset function
-
- - 4 different "Notebooks" were used that must be joined with rowbind()
-
- - Final dataset was created with all 4 safety metrics datasets plus the power generation dataset
-
-## The Safety Score
-
-Now to create a single metric to compare safety across all plants.
-
-``` r
-#Takes all safety score columns and scales them with z-score
-mutate(across(where(is.numeric) & !power_generated, ~ as.vector(scale(.)))) |>
-
-  #Takes the mean of all safety z-scores
-  #Then it takes the mean of each row and flips the value
-  mutate(
-    overall_safety_score = -1 *
-      rowMeans(
-        pick(!c(state_of_location, date, power_generated)),
-        na.rm = TRUE))
-```
-
-## Building and Embedding the App
-
-**App Overview**
-
- - Select date and look at four different plots to visualize safety and power consumption.
-
-**Quarto Integration**
-
- - To better understand the full scope of the project I embedded the Shiny app directly into the Quarto document.
-
- - This was done with Shinylive to create a webbased R environment.
-
-## Shiny App
-
-```{shinylive-r}
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
 #| standalone: true
-#| viewerHeight: 600
+#| viewerHeight: 500
 library(shiny)
 library(bslib)
 
@@ -280,16 +282,6 @@ output$safety_plot <- renderPlot({
       )
     }
 
-ggplot(df, aes(x = power_generated, y = overall_safety_score)) +
-      geom_point(color = "steelblue") +
-      geom_smooth(method = "lm", se = FALSE, color = "red", na.rm = TRUE) +
-      labs(
-        title = paste("Safety vs Power -", input$date_select),
-        subtitle = paste("Sorted by:", input$sort_by),
-        x = "Power Generated (MWh)",
-        y = "Overall Safety Score"
-      ) +
-      theme_minimal(base_size = 12)
 
   } else if (input$stat == "corr_trend") {
     ggplot(cor_by_date, aes(x = date, y = correlation)) +
@@ -326,16 +318,12 @@ ggplot(df, aes(x = power_generated, y = overall_safety_score)) +
 }
 
 shinyApp(ui, server)
-```
-
-## Findings
-
-No significant correlation was found between safety scores and power generation across the different sites and time periods analyzed.
-
-## Limitations and Future Work
-
- - Limited to 2007 to 2009 due to change of data set overlap after time consuming data extraction.
-
- - Future work could involve automating the PDF extraction for more recent years.
-
-## Thank you and Questions
+#
+#
+#
+#
+#
+#
+#
+#
+#
