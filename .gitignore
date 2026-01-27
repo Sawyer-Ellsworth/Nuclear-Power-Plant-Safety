@@ -42,10 +42,8 @@ shinylive-sw.js
 
 # --- Large Data & Documentation ---
 # (Based on your file explorer screenshot)
-/data/
+
 /Output/
 /Docs/inspection_reports/
 /Docs/material_licensing/
-*.csv
-*.xlsx
 *.pdf

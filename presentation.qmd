@@ -31,16 +31,27 @@ embed-resources: false
 -   Safety metric data was in pdf format so it had to be extracted and transformed into a usable format, csv.
 -   To do this I used Gemini to coagulate the data from the pdfs into a single csv file.
 -   This took several attempts of writing custom prompts in notbook lm to take the pdfs and extract the relevant data.
--   This was by far the hardest and most time consuming part of my project.
-
-## Cleaning Data
-
--   After data was extracted and transformed into csv format, it had to be cleaned and organized for analysis.
--   First I had to
+ - After that I just joined the data sets together
 
 ## The Safety Score
+To compare the safety score to the amount of power generated, I created a new variable to give to ggplot.
+
+```r
+#Takes all safety score columns and scales them with z-score
+mutate(across(where(is.numeric) & !power_generated, ~ as.vector(scale(.)))) |>
+
+  #Takes the mean of all safety z-scores
+  #Then it takes the mean of each row and flips the value
+  mutate(
+    overall_safety_score = -1 *
+      rowMeans(
+        pick(!c(state_of_location, date, power_generated)),
+        na.rm = TRUE))
+```
 
 ## Creating the App and Using it in Quarto
+
+ - 
 
 ## Shiny App
 
@@ -80,7 +91,8 @@ ui <- page_fluid(
         choices = c(
           "Overall Safety Score" = "overall_safety_score",
           "Power Generated" = "power_generated",
-          "Power Generated vs Safety Score" = "power_vs_safety"
+          "Power Generated vs Safety Score" = "power_vs_safety",
+          "Safety vs Power Correlation" = "safety_power_corr",
         ),
         selected = "overall_safety_score"
       ),
@@ -207,6 +219,21 @@ server <- function(input, output, session) {
           ),
           subtitle = paste("Sorted by:", input$sort_by),
           x = "Site / State",
+          y = "Overall Safety Score"
+        ) +
+        theme_minimal(base_size = 12)
+    } else if (input$stat == "safety_power_corr") {
+      # Correlation plot: Safety vs Power
+      ggplot(df, aes(
+        x = power_generated,
+        y = overall_safety_score
+      )) +
+        geom_point(alpha = 0.6, color = "steelblue") +
+        geom_smooth(method = "lm", se = FALSE, color = "red") +
+        labs(
+          title = paste("Safety vs Power -", input$date_select),
+          subtitle = paste("Sorted by:", input$sort_by),
+          x = "Power Generated (MWh)",
           y = "Overall Safety Score"
         ) +
         theme_minimal(base_size = 12)

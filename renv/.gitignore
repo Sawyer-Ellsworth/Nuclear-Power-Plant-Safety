@@ -1,10 +1,51 @@
+# --- System & IDE ---
+.DS_Store
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.vscode/
+
+# --- renv & R Packages ---
+# (User specified + standard rules)
+renv/library/
+renv/staging/
+renv/python/
 library/
+staging/
+
+# --- User Custom / Legacy ---
+# (Specific folders you requested)
 local/
 cellar/
 lock/
-python/
 sandbox/
-staging/
 
-renv/library
-renv/staging
+# --- Python ---
+python/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# --- Quarto & Shinylive Build Artifacts ---
+/.quarto/
+/_freeze/
+/presentation_files/
+/README_files/
+*_files/
+shinylive-sw.js
+
+# --- Output & Generated Files ---
+# Ignore generated HTML to keep repo clean (unless manual deploy)
+*.html
+!index.html
+
+# --- Large Data & Documentation ---
+# (Based on your file explorer screenshot)
+/data/
+/Output/
+/Docs/inspection_reports/
+/Docs/material_licensing/
+*.csv
+*.xlsx
+*.pdf
