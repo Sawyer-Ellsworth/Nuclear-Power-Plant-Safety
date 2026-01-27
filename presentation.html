@@ -101,7 +101,7 @@
     code span.vs { color: #20794d; } /* VerbatimString */
     code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   </style>
-  <link rel="stylesheet" href="presentation_files/libs/revealjs/dist/theme/quarto-534cd8e3a96973385dffff3f4709048d.css">
+  <link rel="stylesheet" href="presentation_files/libs/revealjs/dist/theme/quarto-832775eafbd512325564c8c290c39367.css">
   <link href="presentation_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="presentation_files/libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="presentation_files/libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
@@ -213,29 +213,41 @@ Sawyer Ellsworth
 </section>
 <section id="project-overview" class="slide level2">
 <h2>Project Overview</h2>
-<p>This project analyzes nuclear-site safety metrics and power output. - Goal: visualize safety vs power and enable interactive exploration. - Data: site-level scores and generation by date.</p>
+<ul>
+<li>This project looks at two data sets.</li>
+<li>The first contains information about nuclear power generation in MWh at most commercial nuclear power plants in the United States.</li>
+<li>The second contains information about safety metrics at these plants, such as scrams and coolant leaks.</li>
+<li>The goal of this project is to analyze the relationship between power generation and safety metrics at these plants from 2007-2009.</li>
+</ul>
 </section>
 <section id="finding-data" class="slide level2">
 <h2>Finding data</h2>
 <ul>
-<li>Sources: CSVs in data/processed</li>
-<li>Key table: Nuclear_Metrics_Scores.csv (state_of_location, power_generated, overall_safety_score, date)</li>
+<li>Power generation data was taken from the U.S. Energy Information Administration (EIA) with each year being a seperate data set.</li>
+<li>Safety metrics data was obtained from the Nuclear Regulatory Commission (NRC) with each site being a separate pdf.</li>
 </ul>
 </section>
 <section id="making-data" class="slide level2">
 <h2>Making Data</h2>
 <ul>
-<li>Aggregation and calculations done in preprocessing scripts.</li>
-<li>Keep IDs and dates tidy for filtering in the app.</li>
+<li>Safety metric data was in pdf format so it had to be extracted and transformed into a usable format, csv.</li>
+<li>To do this I used Gemini to coagulate the data from the pdfs into a single csv file.</li>
+<li>This took several attempts of writing custom prompts in notbook lm to take the pdfs and extract the relevant data.</li>
+<li>This was by far the hardest and most time consuming part of my project.</li>
 </ul>
 </section>
 <section id="cleaning-data" class="slide level2">
 <h2>Cleaning Data</h2>
 <ul>
-<li>Converted percent strings to numeric.</li>
-<li>Ensured consistent state/site names and dates.</li>
-<li>Handled NAs for visual consistency.</li>
+<li>After data was extracted and transformed into csv format, it had to be cleaned and organized for analysis.</li>
+<li>First I had to</li>
 </ul>
+</section>
+<section id="the-safety-score" class="slide level2">
+<h2>The Safety Score</h2>
+</section>
+<section id="creating-the-app-and-using-it-in-quarto" class="slide level2">
+<h2>Creating the App and Using it in Quarto</h2>
 </section>
 <section id="shiny-app" class="slide level2">
 <h2>Shiny App</h2>
@@ -406,7 +418,7 @@ Sawyer Ellsworth
 <span id="cb1-165"><a href=""></a>          x = "Site / State",</span>
 <span id="cb1-166"><a href=""></a>          y = "Overall Safety Score"</span>
 <span id="cb1-167"><a href=""></a>        ) +</span>
-<span id="cb1-168"><a href=""></a>        theme_minimal(base_size = 12) #fix to get ideal size</span>
+<span id="cb1-168"><a href=""></a>        theme_minimal(base_size = 12)</span>
 <span id="cb1-169"><a href=""></a>    } else {</span>
 <span id="cb1-170"><a href=""></a></span>
 <span id="cb1-171"><a href=""></a>      #Takes variable in label map to make better labels</span>
@@ -426,7 +438,7 @@ Sawyer Ellsworth
 <span id="cb1-185"><a href=""></a>          x = "Site / State",</span>
 <span id="cb1-186"><a href=""></a>          y = y_label</span>
 <span id="cb1-187"><a href=""></a>        ) +</span>
-<span id="cb1-188"><a href=""></a>        theme_minimal(base_size = 10)</span>
+<span id="cb1-188"><a href=""></a>        theme_minimal(base_size = 12)</span>
 <span id="cb1-189"><a href=""></a>    }</span>
 <span id="cb1-190"><a href=""></a>  })</span>
 <span id="cb1-191"><a href=""></a>}</span>
@@ -435,7 +447,6 @@ Sawyer Ellsworth
 </section>
 <section id="final-slide" class="slide level2">
 <h2>Final slide</h2>
-<p>Thank you - questions?</p>
 
 </section>
     </div>

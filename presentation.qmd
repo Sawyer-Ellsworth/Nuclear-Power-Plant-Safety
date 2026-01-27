@@ -3,6 +3,7 @@ title: "Nuclear Site Metrics"
 author: "Sawyer Ellsworth"
 format:
   revealjs:
+    theme: solarized
     margin: 0.1
     slide-level: 2
     transition: fade
@@ -13,19 +14,33 @@ filters:
 embed-resources: false
 ---
 
-
-
 ## Project Overview
 
+-   This project looks at two data sets.
+-   The first contains information about nuclear power generation in MWh at most commercial nuclear power plants in the United States.
+-   The second contains information about safety metrics at these plants, such as scrams and coolant leaks.
+-   The goal of this project is to analyze the relationship between power generation and safety metrics at these plants from 2007-2009.
 
 ## Finding data
 
+-   Power generation data was taken from the U.S. Energy Information Administration (EIA) with each year being a seperate data set.
+-   Safety metrics data was obtained from the Nuclear Regulatory Commission (NRC) with each site being a separate pdf.
 
 ## Making Data
 
+-   Safety metric data was in pdf format so it had to be extracted and transformed into a usable format, csv.
+-   To do this I used Gemini to coagulate the data from the pdfs into a single csv file.
+-   This took several attempts of writing custom prompts in notbook lm to take the pdfs and extract the relevant data.
+-   This was by far the hardest and most time consuming part of my project.
 
 ## Cleaning Data
 
+-   After data was extracted and transformed into csv format, it had to be cleaned and organized for analysis.
+-   First I had to
+
+## The Safety Score
+
+## Creating the App and Using it in Quarto
 
 ## Shiny App
 
@@ -223,4 +238,3 @@ shinyApp(ui, server)
 ```
 
 ## Final slide
-

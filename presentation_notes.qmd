@@ -1,0 +1,63 @@
+## What is this doc
+
+I am taking notes on what others put in their presentations and what questions where asked to better presnet on tuesday
+
+## First presentation (Corban Freese)
+
+Project (2 Min Football Drill Simulation)
+
+-   Slide 1: The Problem - Slide 2: The engine (What is the code doing)
+
+-   Slide 3: The code (Creating a ggplot field and explaining what it does)
+
+-   Slide 4: (not slide) The simulation/app
+
+-   Slide 5: Insights - graph of passing success rate on x and 10 situation
+
+-   Slide 6: Questions
+
+my notes:
+
+This shi chatted af
+
+not similar to my project
+
+## Second Presentation (Asher)
+
+project:Factor analysis:chapman universit on american fears
+
+-   slide 1: overview of the servey(data)
+
+-   slide 2: sample questions on servey
+
+-   slide 3: What is Factor Analysis
+
+-   slide 4: Example results
+
+-   slide 5: Extracted first-order factors (what are the factors and what categories do they fit in)
+
+-   slide 6: Hierarchical factors (running factors on the factors)
+
+-   slide 7: Higher-order factor structure (groups factors to see connections)
+
+-   slide 8: General factor structure (looking at a factor that a overall factor looking at what most commonly maps the data)
+
+-   slide 9: How much does this explain? (how good the factors fit by a %)
+
+-   slide 10: Questions:
+
+    -   why did u pick religeon as something to relate to the fears
+
+    -   how did you name your factors
+
+    -   what was the most suprising thing you learned
+
+    -   how can i inturpret your graph on factors
+
+    -   what is the orphan factor
+
+notes:
+    little ai 
+    not that similar to my project
+    add a graph that looks at corrilation between saftey and power output
+    

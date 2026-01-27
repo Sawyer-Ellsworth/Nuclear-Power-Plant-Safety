@@ -160,7 +160,7 @@ server <- function(input, output, session) {
           x = "Site / State",
           y = "Overall Safety Score"
         ) +
-        theme_minimal(base_size = 12) #fix to get ideal size
+        theme_minimal(base_size = 12)
     } else {
 
       #Takes variable in label map to make better labels
@@ -180,7 +180,7 @@ server <- function(input, output, session) {
           x = "Site / State",
           y = y_label
         ) +
-        theme_minimal(base_size = 10)
+        theme_minimal(base_size = 12)
     }
   })
 }
